@@ -1,0 +1,11 @@
+Country Name,Country Code (ISO),Region,Coffee Variety,Altitude (meters),Flavor Profile,Harvest Season,Processing Method,Export Volume (tons),Sustainability Score
+Brazil,BRA,Minas Gerais,Bourbon,1942,Floral,October to February,Washed,415864,4.0
+Vietnam,VNM,Central Highlands,Caturra,882,Fruity,October to February,Washed,474127,3.7
+Colombia,COL,Antioquia,Typica,1863,Chocolatey,October to February,Honey,370273,3.3
+Ethiopia,ETH,Yirgacheffe,Caturra,1452,Nutty,March to June,Honey,487616,4.7
+Honduras,HND,Copan,Caturra,1488,Earthy,July to September,Honey,356820,4.4
+India,IND,Karnataka,Bourbon,1772,Fruity,March to June,Natural,453268,3.2
+Uganda,UGA,Bugisu,Typica,1995,Floral,July to September,Honey,429913,3.1
+Mexico,MEX,Chiapas,Typica,1343,Earthy,July to September,Washed,478221,3.1
+Peru,PER,Cusco,Typica,1149,Earthy,July to September,Honey,424920,4.5
+Guatemala,GTM,Antigua,Typica,1102,Nutty,October to February,Honey,467274,3.2
