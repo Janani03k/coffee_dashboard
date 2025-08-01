@@ -1,0 +1,1001 @@
+Date,State,Coffee Type,Sales Channel,Price per Unit (USD),Payment Method,Promotion Applied,Barista Name,Customer Type,Wait Time (Minutes),Special Request,Order Rating
+2024-12-29 05:48 PM,New York,Iced Latte,In-Store,4.64,Cash,No,Maria,Tourist,9,Oat Milk,5
+2024-12-27 10:12 AM,Texas,Caramel Macchiato,Online,4.16,Cash,Yes,Chris,Tourist,6,Decaf,5
+2024-12-26 11:01 AM,California,Mocha,Online,4.2,Mobile Pay,No,Alex,Tourist,6,Decaf,2
+2024-12-22 11:01 AM,California,Caramel Macchiato,Online,4.97,Credit Card,No,Taylor,New,8,Whipped Cream,3
+2024-12-25 03:44 PM,California,Flat White,Mobile App,5.93,Credit Card,No,Maria,Tourist,2,Extra Shot,3
+2024-12-22 10:22 AM,Texas,Iced Latte,Online,4.44,Mobile Pay,No,Alex,New,6,Double Espresso,1
+2024-12-23 10:48 AM,California,Cappuccino,In-Store,5.17,Cash,No,Chris,Tourist,7,Almond Milk,5
+2024-12-24 10:00 AM,Texas,Cappuccino,Online,4.49,Cash,No,Chris,Regular,3,Extra Shot,2
+2024-12-23 11:50 AM,Illinois,Cappuccino,Mobile App,6.33,Mobile Pay,Yes,Jamie,New,3,Almond Milk,2
+2024-12-29 03:22 PM,Florida,Americano,Online,3.56,Cash,No,Maria,Tourist,6,Almond Milk,1
+2024-12-18 10:44 AM,Texas,Flat White,In-Store,3.84,Credit Card,No,Jordan,Regular,3,Almond Milk,4
+2024-12-27 08:12 AM,California,Iced Latte,Mobile App,5.05,Credit Card,No,Alex,New,2,Almond Milk,3
+2024-12-25 09:50 AM,California,Cappuccino,In-Store,5.35,Credit Card,Yes,Jordan,New,2,Almond Milk,2
+2024-12-28 12:37 PM,Florida,Flat White,In-Store,6.42,Mobile Pay,Yes,Taylor,Tourist,3,Almond Milk,5
+2024-12-27 04:13 PM,Texas,Flat White,In-Store,6.61,Mobile Pay,Yes,Jordan,Regular,5,Double Espresso,4
+2024-12-20 05:11 PM,New York,Americano,In-Store,3.72,Cash,No,Jamie,Regular,10,Extra Shot,4
+2024-12-16 01:07 PM,New York,Iced Latte,Mobile App,3.54,Cash,No,Taylor,Tourist,2,Almond Milk,3
+2024-12-22 02:18 PM,New York,Cappuccino,Mobile App,4.25,Cash,Yes,Taylor,New,6,Whipped Cream,4
+2024-12-18 09:57 AM,New York,Americano,Online,3.72,Mobile Pay,No,Jordan,Regular,8,Decaf,5
+2024-12-25 09:07 AM,Texas,Espresso,Online,5.78,Credit Card,Yes,Alex,New,5,No Sugar,2
+2024-12-24 02:07 PM,Texas,Caramel Macchiato,Online,5.9,Cash,No,Jordan,New,7,Decaf,5
+2024-12-30 03:32 PM,Florida,Mocha,Online,3.43,Cash,No,Jamie,Regular,4,Almond Milk,1
+2024-12-26 09:31 AM,California,Mocha,Online,5.42,Cash,Yes,Chris,Tourist,3,Whipped Cream,1
+2024-12-25 04:49 PM,New York,Caramel Macchiato,Online,3.81,Mobile Pay,No,Jamie,Tourist,6,Double Espresso,3
+2024-12-27 04:34 PM,California,Caramel Macchiato,In-Store,6.96,Credit Card,No,Jamie,New,8,Decaf,4
+2024-12-15 10:35 AM,Florida,Americano,In-Store,4.97,Credit Card,No,Jordan,New,9,Whipped Cream,1
+2024-12-24 03:42 PM,Illinois,Americano,Mobile App,5.29,Cash,Yes,Taylor,Regular,8,No Sugar,4
+2024-12-24 02:39 PM,Florida,Caramel Macchiato,Online,4.28,Credit Card,Yes,Maria,New,7,Whipped Cream,5
+2024-12-15 01:24 PM,California,Espresso,Online,6.97,Cash,No,Alex,Tourist,5,Extra Shot,2
+2024-12-25 05:05 PM,California,Caramel Macchiato,Online,3.46,Credit Card,Yes,Taylor,New,2,Decaf,4
+2024-12-24 02:17 PM,California,Americano,Online,5.35,Cash,No,Taylor,New,7,Double Espresso,1
+2024-12-27 09:44 AM,Texas,Flat White,Online,5.01,Mobile Pay,No,Maria,Tourist,6,No Sugar,4
+2024-12-18 09:53 AM,Illinois,Mocha,Online,4.06,Cash,No,Maria,Tourist,3,Oat Milk,5
+2024-12-16 01:17 PM,California,Cappuccino,Mobile App,4.9,Credit Card,No,Alex,Tourist,6,Double Espresso,3
+2024-12-21 04:20 PM,Texas,Espresso,Online,4.01,Mobile Pay,No,Jordan,Tourist,4,Almond Milk,5
+2024-12-28 05:31 PM,Texas,Americano,Mobile App,6.75,Cash,No,Taylor,Tourist,2,Double Espresso,2
+2024-12-20 10:15 AM,Texas,Americano,Mobile App,6.06,Cash,No,Chris,Regular,5,Whipped Cream,4
+2024-12-19 12:41 PM,Texas,Flat White,Mobile App,5.4,Cash,Yes,Alex,Regular,5,Almond Milk,2
+2024-12-27 12:29 PM,New York,Cappuccino,Online,4.69,Credit Card,Yes,Maria,New,4,Almond Milk,3
+2024-12-27 12:42 PM,Illinois,Mocha,Mobile App,6.41,Mobile Pay,No,Alex,Regular,3,No Sugar,5
+2024-12-19 09:57 AM,New York,Flat White,Mobile App,5.63,Credit Card,No,Jordan,Regular,5,Almond Milk,5
+2024-12-26 09:33 AM,Illinois,Caramel Macchiato,Mobile App,4.01,Credit Card,Yes,Taylor,Regular,7,No Sugar,5
+2024-12-26 11:59 AM,New York,Mocha,In-Store,3.43,Credit Card,No,Jamie,New,6,Whipped Cream,5
+2024-12-15 04:23 PM,California,Flat White,Mobile App,4.7,Mobile Pay,Yes,Chris,Regular,7,Decaf,3
+2024-12-28 08:41 AM,Illinois,Iced Latte,Mobile App,5.65,Credit Card,Yes,Chris,Tourist,8,No Sugar,3
+2024-12-29 09:34 AM,Texas,Caramel Macchiato,Online,4.55,Cash,No,Chris,Regular,5,No Sugar,2
+2024-12-28 10:58 AM,New York,Americano,Online,6.52,Mobile Pay,No,Alex,New,3,Whipped Cream,4
+2024-12-22 02:59 PM,Florida,Americano,Online,6.51,Credit Card,Yes,Jordan,New,10,Almond Milk,3
+2024-12-21 04:47 PM,Florida,Espresso,Mobile App,3.11,Credit Card,Yes,Jordan,New,4,Almond Milk,4
+2024-12-18 12:20 PM,Illinois,Iced Latte,In-Store,3.63,Mobile Pay,Yes,Taylor,Tourist,8,Whipped Cream,3
+2024-12-22 10:16 AM,Texas,Americano,Mobile App,6.31,Cash,Yes,Alex,New,7,Extra Shot,4
+2024-12-29 05:14 PM,California,Iced Latte,Mobile App,5.59,Mobile Pay,Yes,Alex,New,5,No Sugar,2
+2024-12-15 05:27 PM,Illinois,Flat White,In-Store,3.36,Cash,Yes,Taylor,Regular,2,Oat Milk,5
+2024-12-21 03:52 PM,New York,Iced Latte,In-Store,5.85,Credit Card,No,Chris,Tourist,9,Decaf,2
+2024-12-21 11:38 AM,Texas,Caramel Macchiato,Online,5.91,Credit Card,No,Maria,New,4,Almond Milk,3
+2024-12-30 11:39 AM,New York,Mocha,Online,5.33,Mobile Pay,No,Alex,Regular,9,Extra Shot,3
+2024-12-30 02:43 PM,Texas,Americano,Online,5.83,Mobile Pay,No,Alex,Regular,10,Almond Milk,1
+2024-12-20 11:30 AM,Florida,Cappuccino,Mobile App,6.87,Mobile Pay,Yes,Alex,New,10,Double Espresso,4
+2024-12-19 02:42 PM,Florida,Mocha,Mobile App,3.16,Credit Card,No,Maria,Tourist,9,No Sugar,4
+2024-12-17 01:45 PM,Illinois,Espresso,In-Store,4.04,Cash,Yes,Maria,New,6,Oat Milk,3
+2024-12-29 12:57 PM,Florida,Cappuccino,Online,5.07,Cash,Yes,Chris,Tourist,9,Whipped Cream,2
+2024-12-23 03:03 PM,Texas,Mocha,In-Store,3.92,Credit Card,No,Chris,Regular,9,Decaf,1
+2024-12-30 03:02 PM,New York,Flat White,Mobile App,5.24,Cash,No,Alex,Tourist,4,Almond Milk,3
+2024-12-16 12:11 PM,Texas,Americano,Mobile App,6.29,Mobile Pay,Yes,Taylor,Regular,10,Whipped Cream,5
+2024-12-17 09:15 AM,New York,Americano,In-Store,6.55,Credit Card,No,Jordan,Tourist,3,Decaf,3
+2024-12-24 09:53 AM,Florida,Mocha,In-Store,3.32,Mobile Pay,No,Jamie,Tourist,6,Double Espresso,1
+2024-12-20 08:41 AM,Illinois,Espresso,Online,6.79,Mobile Pay,Yes,Maria,Regular,6,No Sugar,1
+2024-12-26 04:38 PM,New York,Iced Latte,Online,4.02,Credit Card,No,Alex,Regular,5,Extra Shot,4
+2024-12-27 12:41 PM,Texas,Iced Latte,Online,4.96,Cash,No,Jordan,Tourist,4,No Sugar,1
+2024-12-28 04:12 PM,New York,Espresso,Online,4.91,Mobile Pay,No,Alex,New,7,Double Espresso,2
+2024-12-21 02:05 PM,California,Cappuccino,Online,6.89,Mobile Pay,Yes,Jordan,Tourist,4,Decaf,5
+2024-12-25 04:05 PM,Florida,Espresso,Online,3.32,Cash,No,Maria,Regular,6,Whipped Cream,2
+2024-12-23 12:36 PM,California,Cappuccino,In-Store,6.67,Mobile Pay,Yes,Taylor,New,8,Almond Milk,4
+2024-12-25 05:52 PM,Florida,Flat White,Online,5.34,Mobile Pay,Yes,Alex,Tourist,9,Extra Shot,2
+2024-12-28 08:05 AM,New York,Americano,Online,4.26,Mobile Pay,No,Jordan,New,6,No Sugar,2
+2024-12-18 09:47 AM,Illinois,Flat White,Mobile App,3.43,Mobile Pay,Yes,Alex,New,3,Almond Milk,2
+2024-12-25 03:44 PM,New York,Caramel Macchiato,Mobile App,6.86,Mobile Pay,No,Chris,Tourist,7,Oat Milk,4
+2024-12-27 09:08 AM,Texas,Iced Latte,In-Store,3.45,Credit Card,Yes,Alex,Regular,9,Oat Milk,2
+2024-12-25 02:53 PM,Illinois,Mocha,In-Store,4.2,Cash,Yes,Jamie,New,2,Almond Milk,2
+2024-12-29 03:31 PM,New York,Iced Latte,Online,5.34,Credit Card,No,Taylor,New,2,No Sugar,1
+2024-12-16 02:26 PM,New York,Americano,Mobile App,5.38,Mobile Pay,No,Alex,New,8,Decaf,5
+2024-12-24 05:59 PM,New York,Mocha,Mobile App,3.24,Credit Card,No,Taylor,New,10,Almond Milk,3
+2024-12-29 02:56 PM,New York,Iced Latte,Online,5.49,Mobile Pay,No,Jamie,Tourist,8,Almond Milk,2
+2024-12-19 11:30 AM,Florida,Espresso,In-Store,5.03,Mobile Pay,No,Taylor,Tourist,9,Extra Shot,3
+2024-12-26 02:26 PM,Florida,Caramel Macchiato,Online,6.2,Credit Card,Yes,Chris,Tourist,3,Oat Milk,4
+2024-12-17 11:10 AM,Illinois,Espresso,In-Store,6.17,Cash,No,Maria,Regular,10,Almond Milk,1
+2024-12-20 12:22 PM,Texas,Mocha,Mobile App,3.13,Credit Card,No,Jamie,Regular,5,Almond Milk,5
+2024-12-18 12:21 PM,Florida,Caramel Macchiato,In-Store,6.08,Mobile Pay,No,Maria,Tourist,10,Double Espresso,1
+2024-12-26 03:51 PM,New York,Caramel Macchiato,In-Store,6.9,Mobile Pay,Yes,Taylor,Regular,10,Almond Milk,2
+2024-12-25 11:58 AM,Florida,Mocha,Mobile App,4.17,Cash,No,Jordan,Regular,4,Oat Milk,3
+2024-12-20 10:07 AM,Texas,Espresso,Online,6.08,Credit Card,Yes,Jamie,New,6,Double Espresso,2
+2024-12-16 01:45 PM,New York,Flat White,Mobile App,5.66,Credit Card,No,Maria,Regular,8,Decaf,4
+2024-12-29 04:50 PM,Florida,Iced Latte,Online,3.58,Credit Card,Yes,Alex,New,7,Decaf,2
+2024-12-21 02:48 PM,California,Americano,Mobile App,3.6,Mobile Pay,Yes,Jordan,Tourist,10,No Sugar,4
+2024-12-21 04:55 PM,Florida,Americano,Mobile App,4.25,Cash,Yes,Chris,Tourist,4,Oat Milk,4
+2024-12-22 11:56 AM,Illinois,Cappuccino,Mobile App,5.61,Mobile Pay,No,Jordan,New,5,No Sugar,1
+2024-12-15 01:24 PM,Texas,Cappuccino,Mobile App,4.14,Credit Card,No,Taylor,New,4,Almond Milk,1
+2024-12-29 04:37 PM,Florida,Mocha,Online,5.91,Mobile Pay,Yes,Jordan,Regular,7,No Sugar,5
+2024-12-20 08:48 AM,California,Espresso,Online,5.29,Credit Card,No,Chris,Regular,10,Whipped Cream,5
+2024-12-18 12:18 PM,Illinois,Americano,In-Store,5.86,Mobile Pay,Yes,Alex,New,10,Double Espresso,2
+2024-12-28 01:29 PM,California,Mocha,Mobile App,4.7,Cash,Yes,Alex,Regular,8,Extra Shot,4
+2024-12-18 09:23 AM,Illinois,Espresso,Mobile App,5.24,Cash,No,Taylor,New,8,Decaf,4
+2024-12-26 02:52 PM,Texas,Mocha,Mobile App,3.51,Mobile Pay,No,Maria,Tourist,10,Whipped Cream,5
+2024-12-16 11:29 AM,New York,Iced Latte,Mobile App,3.63,Mobile Pay,No,Alex,Tourist,8,Almond Milk,1
+2024-12-20 12:02 PM,Illinois,Mocha,In-Store,4.49,Cash,No,Chris,New,2,Whipped Cream,2
+2024-12-17 05:26 PM,California,Flat White,Online,3.86,Mobile Pay,No,Alex,Regular,10,No Sugar,1
+2024-12-28 02:30 PM,Illinois,Flat White,Mobile App,4.81,Cash,No,Jamie,Tourist,4,Whipped Cream,2
+2024-12-23 03:48 PM,New York,Americano,Online,3.6,Mobile Pay,No,Alex,Tourist,8,Decaf,2
+2024-12-29 01:34 PM,California,Americano,Online,5.94,Mobile Pay,Yes,Maria,Tourist,2,Double Espresso,3
+2024-12-23 09:41 AM,Illinois,Iced Latte,In-Store,6.82,Mobile Pay,Yes,Taylor,Tourist,5,Whipped Cream,4
+2024-12-23 08:07 AM,Illinois,Mocha,In-Store,4.1,Credit Card,Yes,Jordan,Tourist,9,Almond Milk,5
+2024-12-24 02:37 PM,California,Espresso,In-Store,4.36,Credit Card,No,Alex,Tourist,7,Decaf,3
+2024-12-16 09:34 AM,Texas,Flat White,In-Store,3.73,Credit Card,Yes,Chris,New,4,Almond Milk,5
+2024-12-30 10:01 AM,California,Flat White,Online,3.39,Credit Card,No,Chris,New,8,Whipped Cream,1
+2024-12-15 11:48 AM,Illinois,Cappuccino,In-Store,4.97,Mobile Pay,No,Alex,New,2,No Sugar,4
+2024-12-23 09:30 AM,California,Espresso,Mobile App,3.93,Credit Card,No,Taylor,Tourist,3,Extra Shot,5
+2024-12-25 10:19 AM,Illinois,Espresso,Online,3.34,Mobile Pay,Yes,Maria,New,10,Extra Shot,2
+2024-12-23 02:58 PM,Illinois,Espresso,In-Store,3.0,Cash,No,Jordan,Regular,2,Almond Milk,4
+2024-12-19 12:53 PM,New York,Flat White,Mobile App,3.85,Mobile Pay,No,Alex,Regular,10,Double Espresso,1
+2024-12-19 02:44 PM,California,Caramel Macchiato,In-Store,5.9,Cash,No,Maria,Tourist,10,Whipped Cream,3
+2024-12-29 01:40 PM,Florida,Caramel Macchiato,Mobile App,4.81,Credit Card,No,Chris,Regular,9,Double Espresso,3
+2024-12-15 10:41 AM,California,Cappuccino,Online,3.02,Credit Card,Yes,Jamie,Tourist,9,Whipped Cream,4
+2024-12-23 09:34 AM,California,Caramel Macchiato,Mobile App,4.78,Credit Card,No,Jamie,Tourist,7,Decaf,2
+2024-12-28 08:07 AM,New York,Flat White,In-Store,4.78,Credit Card,Yes,Chris,Tourist,7,Extra Shot,1
+2024-12-28 12:51 PM,Texas,Mocha,Online,6.87,Credit Card,No,Jamie,Tourist,5,Almond Milk,2
+2024-12-30 02:07 PM,Florida,Cappuccino,Mobile App,4.98,Mobile Pay,Yes,Jordan,Tourist,4,Almond Milk,5
+2024-12-17 09:08 AM,Florida,Cappuccino,In-Store,6.52,Mobile Pay,No,Maria,Tourist,2,Oat Milk,5
+2024-12-24 04:56 PM,New York,Iced Latte,Online,5.56,Mobile Pay,Yes,Chris,New,8,No Sugar,1
+2024-12-25 03:31 PM,Florida,Cappuccino,In-Store,6.54,Credit Card,Yes,Chris,New,10,Decaf,3
+2024-12-15 11:21 AM,California,Cappuccino,In-Store,6.96,Credit Card,No,Alex,Regular,5,Extra Shot,3
+2024-12-19 09:01 AM,New York,Espresso,In-Store,5.37,Mobile Pay,No,Chris,Regular,3,Decaf,2
+2024-12-30 08:52 AM,Florida,Cappuccino,In-Store,6.77,Mobile Pay,No,Alex,Tourist,9,Double Espresso,1
+2024-12-16 08:58 AM,California,Espresso,Online,6.56,Mobile Pay,Yes,Maria,Regular,9,Almond Milk,3
+2024-12-24 02:04 PM,California,Americano,In-Store,5.24,Cash,No,Jamie,Regular,8,Extra Shot,5
+2024-12-27 05:00 PM,New York,Espresso,Online,6.18,Mobile Pay,Yes,Chris,Tourist,2,Decaf,5
+2024-12-20 11:06 AM,California,Iced Latte,Mobile App,5.85,Mobile Pay,Yes,Taylor,Regular,10,No Sugar,3
+2024-12-21 05:28 PM,Texas,Mocha,In-Store,6.19,Credit Card,Yes,Chris,Tourist,8,Double Espresso,3
+2024-12-19 04:49 PM,Texas,Mocha,Online,4.23,Cash,No,Chris,Regular,10,Double Espresso,2
+2024-12-15 04:52 PM,Illinois,Caramel Macchiato,In-Store,4.69,Credit Card,Yes,Jordan,Regular,3,No Sugar,2
+2024-12-25 03:38 PM,Florida,Caramel Macchiato,Mobile App,5.26,Cash,No,Jamie,New,4,Almond Milk,4
+2024-12-29 08:31 AM,Texas,Iced Latte,Mobile App,3.89,Credit Card,No,Taylor,Regular,5,Decaf,3
+2024-12-27 02:13 PM,New York,Mocha,In-Store,4.45,Credit Card,No,Alex,Tourist,3,Extra Shot,3
+2024-12-22 05:58 PM,Florida,Iced Latte,In-Store,3.8,Cash,Yes,Maria,New,4,No Sugar,5
+2024-12-18 11:01 AM,Texas,Caramel Macchiato,Online,6.64,Credit Card,Yes,Jamie,Tourist,3,No Sugar,2
+2024-12-19 11:23 AM,Florida,Americano,In-Store,6.76,Mobile Pay,No,Jordan,Regular,3,Extra Shot,2
+2024-12-27 11:34 AM,New York,Americano,Online,4.27,Cash,Yes,Alex,Tourist,5,Whipped Cream,5
+2024-12-19 10:20 AM,Texas,Iced Latte,Mobile App,6.18,Credit Card,No,Maria,Tourist,3,Whipped Cream,4
+2024-12-27 05:04 PM,Texas,Cappuccino,Online,6.01,Mobile Pay,No,Jamie,Tourist,9,Extra Shot,3
+2024-12-26 04:44 PM,New York,Americano,Online,4.9,Mobile Pay,No,Jordan,Tourist,2,Extra Shot,2
+2024-12-29 03:55 PM,Texas,Espresso,In-Store,4.22,Cash,Yes,Chris,New,10,Almond Milk,2
+2024-12-27 12:28 PM,Illinois,Flat White,In-Store,5.34,Cash,No,Jamie,New,9,Decaf,4
+2024-12-20 03:20 PM,Florida,Espresso,In-Store,3.72,Credit Card,No,Jordan,Regular,7,Almond Milk,3
+2024-12-28 04:34 PM,California,Caramel Macchiato,Online,6.71,Credit Card,Yes,Alex,New,2,Double Espresso,2
+2024-12-20 01:16 PM,Florida,Americano,Mobile App,6.38,Credit Card,Yes,Jordan,Tourist,10,No Sugar,1
+2024-12-27 12:52 PM,Florida,Caramel Macchiato,Online,6.78,Mobile Pay,Yes,Jamie,Tourist,10,Whipped Cream,2
+2024-12-28 11:14 AM,Texas,Espresso,In-Store,5.06,Mobile Pay,No,Jordan,New,7,Whipped Cream,1
+2024-12-20 11:27 AM,New York,Mocha,Online,4.8,Mobile Pay,Yes,Chris,Regular,4,No Sugar,1
+2024-12-22 01:21 PM,Texas,Espresso,Online,5.74,Cash,No,Chris,Tourist,2,Double Espresso,1
+2024-12-29 10:21 AM,Illinois,Americano,Mobile App,6.66,Mobile Pay,No,Jamie,Regular,8,Almond Milk,5
+2024-12-21 03:06 PM,Florida,Cappuccino,Online,5.56,Cash,Yes,Maria,Regular,10,Extra Shot,1
+2024-12-28 05:31 PM,California,Mocha,In-Store,3.28,Cash,No,Maria,Regular,6,Oat Milk,5
+2024-12-16 08:23 AM,Illinois,Iced Latte,In-Store,4.31,Cash,No,Maria,Regular,4,Double Espresso,4
+2024-12-22 09:24 AM,Texas,Mocha,In-Store,4.24,Mobile Pay,No,Maria,Tourist,6,Double Espresso,2
+2024-12-23 03:17 PM,Texas,Iced Latte,In-Store,4.78,Cash,Yes,Taylor,New,9,Decaf,4
+2024-12-24 09:18 AM,New York,Flat White,Mobile App,6.37,Cash,No,Taylor,Regular,8,Extra Shot,2
+2024-12-29 02:29 PM,New York,Americano,In-Store,5.79,Credit Card,No,Jordan,Regular,5,Whipped Cream,2
+2024-12-19 04:18 PM,California,Americano,Mobile App,5.89,Credit Card,No,Jamie,Tourist,3,No Sugar,1
+2024-12-27 04:49 PM,Florida,Espresso,Online,3.66,Credit Card,Yes,Jamie,Regular,3,Oat Milk,4
+2024-12-21 02:54 PM,Texas,Espresso,In-Store,3.04,Credit Card,Yes,Chris,Tourist,9,Decaf,4
+2024-12-16 04:42 PM,Texas,Americano,Online,3.56,Cash,Yes,Maria,Regular,3,Extra Shot,3
+2024-12-16 02:10 PM,California,Americano,In-Store,5.71,Credit Card,No,Chris,Regular,5,Oat Milk,1
+2024-12-29 04:13 PM,New York,Americano,In-Store,6.35,Mobile Pay,Yes,Jamie,Tourist,6,Decaf,1
+2024-12-24 08:49 AM,New York,Caramel Macchiato,In-Store,6.72,Cash,Yes,Maria,Regular,2,Decaf,1
+2024-12-30 01:52 PM,Texas,Americano,Mobile App,3.25,Credit Card,Yes,Jordan,Regular,2,Decaf,5
+2024-12-16 01:20 PM,Illinois,Americano,In-Store,5.5,Mobile Pay,No,Jamie,Regular,5,Extra Shot,1
+2024-12-20 10:00 AM,New York,Americano,Online,3.05,Credit Card,No,Maria,Regular,6,Oat Milk,5
+2024-12-20 09:56 AM,Texas,Espresso,Online,6.07,Cash,Yes,Jordan,Tourist,4,No Sugar,1
+2024-12-24 02:43 PM,Texas,Flat White,In-Store,5.54,Mobile Pay,No,Jordan,New,3,No Sugar,1
+2024-12-24 05:28 PM,New York,Cappuccino,Mobile App,5.97,Mobile Pay,Yes,Maria,Regular,3,No Sugar,2
+2024-12-26 11:39 AM,California,Iced Latte,In-Store,4.5,Cash,Yes,Maria,New,5,Oat Milk,1
+2024-12-18 05:28 PM,Florida,Mocha,Online,4.27,Credit Card,No,Jordan,New,2,Extra Shot,3
+2024-12-20 11:34 AM,California,Americano,In-Store,6.21,Mobile Pay,Yes,Taylor,New,10,No Sugar,2
+2024-12-22 08:04 AM,New York,Iced Latte,In-Store,3.21,Credit Card,Yes,Maria,Regular,4,Double Espresso,5
+2024-12-28 11:15 AM,Illinois,Iced Latte,Online,5.9,Cash,Yes,Jordan,Regular,5,Decaf,2
+2024-12-24 12:18 PM,Illinois,Espresso,Mobile App,3.81,Cash,Yes,Chris,New,8,Extra Shot,4
+2024-12-22 04:39 PM,New York,Caramel Macchiato,In-Store,6.28,Cash,Yes,Jamie,New,3,Whipped Cream,3
+2024-12-24 10:35 AM,Texas,Flat White,Online,4.85,Cash,No,Jamie,Tourist,9,Almond Milk,3
+2024-12-17 03:12 PM,Texas,Mocha,In-Store,3.05,Mobile Pay,No,Jamie,New,8,Decaf,3
+2024-12-21 12:41 PM,Illinois,Iced Latte,Online,6.54,Credit Card,No,Taylor,Regular,5,Whipped Cream,4
+2024-12-30 01:32 PM,New York,Americano,Mobile App,4.47,Credit Card,No,Jamie,Tourist,5,Extra Shot,4
+2024-12-15 01:40 PM,California,Americano,Mobile App,5.58,Cash,No,Jordan,Regular,6,Extra Shot,5
+2024-12-24 10:00 AM,California,Caramel Macchiato,In-Store,5.58,Cash,No,Jordan,Tourist,3,Double Espresso,2
+2024-12-29 10:53 AM,New York,Flat White,Mobile App,4.21,Mobile Pay,No,Taylor,New,8,Whipped Cream,1
+2024-12-16 05:49 PM,Florida,Caramel Macchiato,In-Store,4.08,Credit Card,No,Jordan,New,2,Extra Shot,4
+2024-12-15 09:49 AM,New York,Cappuccino,Online,5.62,Mobile Pay,No,Maria,Regular,7,Extra Shot,2
+2024-12-18 10:32 AM,California,Espresso,Mobile App,6.26,Credit Card,Yes,Alex,Tourist,4,Whipped Cream,2
+2024-12-19 02:28 PM,Illinois,Iced Latte,Mobile App,3.66,Cash,Yes,Jamie,Regular,6,Almond Milk,3
+2024-12-15 11:30 AM,New York,Americano,In-Store,3.04,Cash,Yes,Jordan,Tourist,2,Almond Milk,2
+2024-12-23 08:24 AM,Illinois,Cappuccino,Online,6.73,Cash,No,Taylor,New,7,No Sugar,3
+2024-12-30 11:23 AM,New York,Espresso,Mobile App,3.23,Cash,No,Alex,Regular,9,Whipped Cream,4
+2024-12-26 10:01 AM,Illinois,Iced Latte,Mobile App,4.12,Mobile Pay,Yes,Chris,New,9,Double Espresso,4
+2024-12-25 08:40 AM,Florida,Iced Latte,Mobile App,4.44,Credit Card,No,Jordan,New,5,Double Espresso,4
+2024-12-21 05:50 PM,California,Flat White,Online,6.76,Cash,Yes,Jordan,New,6,Double Espresso,2
+2024-12-26 04:56 PM,Illinois,Caramel Macchiato,Mobile App,5.02,Credit Card,No,Alex,New,10,Whipped Cream,4
+2024-12-17 03:07 PM,New York,Americano,Mobile App,3.96,Credit Card,Yes,Jordan,Tourist,3,Almond Milk,4
+2024-12-30 08:10 AM,Florida,Espresso,Online,3.88,Cash,No,Jordan,Regular,4,Double Espresso,4
+2024-12-16 01:55 PM,Texas,Cappuccino,Mobile App,3.26,Cash,No,Jordan,Tourist,8,Oat Milk,5
+2024-12-30 02:51 PM,Texas,Mocha,Online,3.46,Credit Card,Yes,Alex,New,5,Oat Milk,1
+2024-12-24 10:54 AM,Florida,Espresso,Mobile App,5.95,Cash,Yes,Taylor,Tourist,5,Whipped Cream,4
+2024-12-30 01:49 PM,Florida,Caramel Macchiato,Mobile App,6.74,Credit Card,Yes,Alex,New,2,Double Espresso,4
+2024-12-20 12:53 PM,Texas,Espresso,Mobile App,4.82,Mobile Pay,No,Maria,Tourist,2,Double Espresso,3
+2024-12-19 09:17 AM,Illinois,Espresso,Mobile App,6.31,Cash,No,Jordan,New,2,Whipped Cream,3
+2024-12-17 11:54 AM,Texas,Americano,Mobile App,3.21,Credit Card,No,Jordan,New,6,Whipped Cream,2
+2024-12-30 04:25 PM,Florida,Espresso,Mobile App,4.89,Cash,No,Jamie,Regular,10,Oat Milk,3
+2024-12-19 11:44 AM,Illinois,Espresso,In-Store,3.52,Mobile Pay,Yes,Jordan,New,9,Oat Milk,2
+2024-12-24 03:44 PM,New York,Flat White,In-Store,3.84,Mobile Pay,Yes,Jordan,Tourist,2,No Sugar,5
+2024-12-16 10:24 AM,New York,Americano,In-Store,6.7,Credit Card,No,Jamie,Regular,2,Almond Milk,5
+2024-12-25 05:27 PM,Texas,Americano,Mobile App,4.62,Credit Card,Yes,Maria,New,9,No Sugar,5
+2024-12-30 02:49 PM,California,Caramel Macchiato,Online,6.46,Mobile Pay,No,Chris,Tourist,9,No Sugar,1
+2024-12-16 09:07 AM,New York,Americano,Mobile App,6.63,Credit Card,Yes,Taylor,Tourist,9,No Sugar,1
+2024-12-27 10:24 AM,New York,Americano,Mobile App,4.73,Mobile Pay,Yes,Alex,New,3,Oat Milk,5
+2024-12-17 08:25 AM,Illinois,Caramel Macchiato,Mobile App,6.13,Mobile Pay,No,Alex,Tourist,10,Oat Milk,1
+2024-12-27 11:42 AM,California,Mocha,Mobile App,5.78,Credit Card,No,Chris,Regular,2,Extra Shot,5
+2024-12-18 10:05 AM,Illinois,Flat White,In-Store,3.34,Credit Card,No,Chris,Tourist,4,Decaf,1
+2024-12-18 08:33 AM,Florida,Americano,Mobile App,4.78,Mobile Pay,No,Jordan,New,10,No Sugar,5
+2024-12-23 11:44 AM,California,Americano,In-Store,3.95,Credit Card,Yes,Chris,Regular,4,Double Espresso,5
+2024-12-18 01:17 PM,Texas,Americano,Mobile App,4.69,Mobile Pay,No,Chris,New,4,Decaf,4
+2024-12-16 12:43 PM,New York,Americano,In-Store,5.14,Credit Card,No,Jordan,Tourist,5,Oat Milk,3
+2024-12-24 04:38 PM,Texas,Espresso,In-Store,4.27,Cash,No,Alex,Tourist,5,Almond Milk,3
+2024-12-16 09:43 AM,Illinois,Espresso,In-Store,4.32,Credit Card,No,Chris,New,4,Whipped Cream,2
+2024-12-19 09:24 AM,Texas,Espresso,In-Store,6.13,Credit Card,Yes,Taylor,Tourist,6,Double Espresso,4
+2024-12-16 01:44 PM,Illinois,Caramel Macchiato,Online,5.21,Mobile Pay,Yes,Alex,Regular,7,Whipped Cream,4
+2024-12-17 04:35 PM,Illinois,Caramel Macchiato,Online,4.91,Credit Card,No,Alex,Tourist,10,Oat Milk,2
+2024-12-25 10:24 AM,Illinois,Americano,Online,3.21,Mobile Pay,No,Jordan,Regular,8,Oat Milk,4
+2024-12-17 01:51 PM,New York,Cappuccino,Online,4.1,Cash,Yes,Chris,Tourist,3,No Sugar,4
+2024-12-27 09:40 AM,California,Iced Latte,Mobile App,3.96,Credit Card,Yes,Taylor,Regular,3,Oat Milk,3
+2024-12-23 03:51 PM,California,Espresso,Mobile App,5.03,Mobile Pay,Yes,Jamie,New,10,Oat Milk,5
+2024-12-26 02:00 PM,Illinois,Mocha,Mobile App,3.03,Cash,No,Maria,Tourist,10,Oat Milk,5
+2024-12-15 03:10 PM,Illinois,Mocha,In-Store,3.3,Credit Card,No,Alex,New,9,Decaf,2
+2024-12-20 09:21 AM,Texas,Caramel Macchiato,Mobile App,6.4,Credit Card,No,Chris,New,6,No Sugar,2
+2024-12-15 05:25 PM,Texas,Flat White,Mobile App,5.06,Credit Card,No,Taylor,New,2,No Sugar,1
+2024-12-24 01:19 PM,Florida,Iced Latte,In-Store,4.4,Mobile Pay,Yes,Jamie,New,2,Almond Milk,4
+2024-12-22 09:33 AM,Illinois,Mocha,Online,3.5,Cash,Yes,Maria,Tourist,6,Extra Shot,4
+2024-12-21 12:23 PM,New York,Mocha,Mobile App,6.25,Credit Card,No,Jordan,New,4,Extra Shot,3
+2024-12-26 08:22 AM,Texas,Iced Latte,In-Store,4.14,Credit Card,No,Jamie,Tourist,7,Almond Milk,2
+2024-12-25 03:42 PM,Florida,Iced Latte,Online,4.96,Cash,Yes,Chris,New,10,Oat Milk,4
+2024-12-17 09:50 AM,California,Mocha,In-Store,4.38,Credit Card,Yes,Alex,Tourist,7,Decaf,5
+2024-12-26 02:30 PM,Florida,Flat White,Online,3.33,Cash,Yes,Taylor,Regular,10,Extra Shot,2
+2024-12-19 09:55 AM,Florida,Americano,In-Store,5.67,Cash,Yes,Jamie,Tourist,3,Oat Milk,5
+2024-12-24 11:54 AM,Illinois,Americano,Mobile App,3.59,Credit Card,Yes,Jamie,Regular,6,Extra Shot,2
+2024-12-21 05:12 PM,California,Caramel Macchiato,In-Store,4.52,Mobile Pay,No,Jordan,Tourist,5,Extra Shot,3
+2024-12-21 08:32 AM,New York,Americano,In-Store,4.22,Cash,No,Chris,New,8,Extra Shot,3
+2024-12-29 10:02 AM,California,Iced Latte,Mobile App,5.98,Credit Card,No,Jamie,New,3,Decaf,2
+2024-12-19 03:23 PM,Florida,Flat White,In-Store,3.39,Credit Card,Yes,Chris,New,7,Oat Milk,5
+2024-12-23 01:15 PM,Florida,Mocha,Mobile App,4.54,Credit Card,Yes,Jordan,Tourist,3,Almond Milk,5
+2024-12-30 11:12 AM,New York,Iced Latte,In-Store,6.77,Mobile Pay,No,Chris,Tourist,9,Whipped Cream,2
+2024-12-23 10:02 AM,Texas,Mocha,Online,5.2,Cash,No,Chris,New,3,Decaf,1
+2024-12-22 04:59 PM,Illinois,Caramel Macchiato,In-Store,3.67,Cash,Yes,Chris,Regular,2,Whipped Cream,2
+2024-12-26 02:31 PM,Illinois,Caramel Macchiato,Mobile App,6.89,Credit Card,No,Taylor,New,10,Whipped Cream,4
+2024-12-21 12:13 PM,Texas,Iced Latte,In-Store,5.29,Mobile Pay,Yes,Taylor,New,10,Oat Milk,5
+2024-12-19 11:18 AM,Florida,Cappuccino,In-Store,3.68,Credit Card,Yes,Chris,Regular,4,No Sugar,2
+2024-12-19 08:41 AM,Texas,Caramel Macchiato,In-Store,5.14,Credit Card,No,Jordan,Tourist,7,No Sugar,1
+2024-12-30 04:16 PM,Texas,Espresso,Mobile App,4.18,Credit Card,Yes,Chris,Regular,6,Extra Shot,3
+2024-12-30 04:42 PM,Illinois,Iced Latte,Mobile App,5.98,Cash,No,Jordan,Tourist,10,Extra Shot,4
+2024-12-18 12:13 PM,Illinois,Americano,Online,3.62,Credit Card,No,Chris,Regular,9,Almond Milk,4
+2024-12-17 10:52 AM,Texas,Mocha,Mobile App,4.96,Mobile Pay,Yes,Jordan,New,2,No Sugar,2
+2024-12-29 02:43 PM,Illinois,Mocha,In-Store,3.57,Cash,Yes,Jamie,Tourist,8,Almond Milk,5
+2024-12-17 08:38 AM,California,Espresso,Online,3.08,Credit Card,Yes,Maria,Regular,3,No Sugar,2
+2024-12-30 05:00 PM,California,Caramel Macchiato,In-Store,5.17,Cash,Yes,Maria,Regular,9,Whipped Cream,5
+2024-12-29 10:19 AM,Florida,Espresso,In-Store,3.98,Mobile Pay,No,Jordan,Tourist,3,Almond Milk,1
+2024-12-16 12:06 PM,Illinois,Caramel Macchiato,Online,3.57,Credit Card,Yes,Maria,New,8,Extra Shot,3
+2024-12-25 11:58 AM,New York,Americano,Mobile App,6.29,Credit Card,No,Maria,Regular,5,Almond Milk,3
+2024-12-20 05:21 PM,California,Flat White,In-Store,6.58,Mobile Pay,Yes,Maria,New,10,No Sugar,5
+2024-12-17 02:09 PM,Florida,Cappuccino,Online,4.39,Credit Card,No,Jamie,Tourist,7,No Sugar,1
+2024-12-27 10:49 AM,Texas,Flat White,In-Store,4.56,Mobile Pay,No,Alex,Regular,8,Oat Milk,3
+2024-12-17 01:08 PM,Texas,Caramel Macchiato,Online,4.41,Cash,No,Jamie,Tourist,8,Double Espresso,3
+2024-12-17 11:24 AM,New York,Cappuccino,Online,5.15,Cash,Yes,Jamie,Regular,8,Double Espresso,5
+2024-12-27 11:44 AM,California,Mocha,Online,3.01,Credit Card,No,Taylor,New,4,Almond Milk,1
+2024-12-29 01:54 PM,Texas,Flat White,Online,3.58,Mobile Pay,No,Maria,Regular,5,Almond Milk,2
+2024-12-16 10:24 AM,California,Americano,Online,4.49,Mobile Pay,Yes,Jordan,Tourist,3,Decaf,5
+2024-12-28 08:09 AM,Florida,Mocha,In-Store,3.98,Credit Card,No,Maria,Regular,9,Oat Milk,2
+2024-12-26 12:30 PM,New York,Americano,Online,4.78,Mobile Pay,Yes,Chris,Regular,4,Almond Milk,1
+2024-12-24 10:32 AM,Texas,Iced Latte,Online,6.33,Mobile Pay,No,Taylor,Tourist,6,Double Espresso,5
+2024-12-19 11:27 AM,Texas,Flat White,In-Store,5.09,Credit Card,Yes,Jamie,Tourist,2,Extra Shot,4
+2024-12-17 04:38 PM,California,Caramel Macchiato,Mobile App,4.87,Cash,No,Jamie,Regular,2,Whipped Cream,3
+2024-12-25 11:17 AM,California,Iced Latte,In-Store,4.45,Cash,Yes,Maria,New,4,Double Espresso,1
+2024-12-16 05:00 PM,Florida,Mocha,Mobile App,3.81,Credit Card,Yes,Chris,Regular,2,Double Espresso,4
+2024-12-15 01:05 PM,Florida,Iced Latte,Online,6.01,Cash,Yes,Chris,New,7,Extra Shot,1
+2024-12-20 04:06 PM,Illinois,Caramel Macchiato,In-Store,3.09,Cash,No,Taylor,Regular,6,Extra Shot,2
+2024-12-25 09:56 AM,California,Americano,In-Store,6.54,Mobile Pay,Yes,Jordan,Regular,10,Double Espresso,5
+2024-12-25 01:28 PM,Texas,Flat White,Online,4.44,Cash,Yes,Jordan,Tourist,8,Extra Shot,2
+2024-12-30 05:04 PM,Texas,Cappuccino,Mobile App,6.98,Credit Card,Yes,Maria,New,10,Whipped Cream,1
+2024-12-22 03:20 PM,Texas,Flat White,In-Store,3.27,Mobile Pay,No,Chris,Regular,3,Extra Shot,4
+2024-12-19 03:16 PM,New York,Americano,In-Store,6.76,Mobile Pay,No,Alex,New,6,Decaf,4
+2024-12-28 10:28 AM,Florida,Cappuccino,Mobile App,6.81,Cash,Yes,Jordan,New,10,Decaf,3
+2024-12-29 08:39 AM,California,Americano,In-Store,5.8,Mobile Pay,Yes,Maria,Regular,6,Decaf,2
+2024-12-24 09:14 AM,New York,Caramel Macchiato,Online,5.68,Cash,No,Jamie,Tourist,10,Whipped Cream,4
+2024-12-16 10:46 AM,California,Espresso,Online,3.8,Cash,Yes,Chris,New,9,Extra Shot,4
+2024-12-16 03:02 PM,Illinois,Mocha,Online,3.58,Credit Card,No,Taylor,Regular,8,Almond Milk,3
+2024-12-27 03:13 PM,California,Mocha,In-Store,6.81,Mobile Pay,No,Chris,New,4,Almond Milk,2
+2024-12-16 02:05 PM,Florida,Caramel Macchiato,Mobile App,4.81,Cash,Yes,Jordan,New,4,Whipped Cream,1
+2024-12-16 02:21 PM,Florida,Mocha,In-Store,4.4,Cash,No,Jamie,Tourist,4,Oat Milk,4
+2024-12-20 05:24 PM,California,Cappuccino,Mobile App,3.79,Mobile Pay,Yes,Chris,Tourist,7,Almond Milk,2
+2024-12-29 10:31 AM,Florida,Iced Latte,Mobile App,4.63,Mobile Pay,Yes,Jamie,Regular,9,Oat Milk,5
+2024-12-16 11:47 AM,Texas,Espresso,Mobile App,5.18,Credit Card,No,Maria,New,5,Extra Shot,5
+2024-12-30 01:52 PM,Florida,Iced Latte,Online,6.59,Mobile Pay,Yes,Jordan,New,9,Decaf,4
+2024-12-20 04:27 PM,Illinois,Caramel Macchiato,Online,3.45,Credit Card,No,Jamie,New,4,Double Espresso,5
+2024-12-17 02:24 PM,Florida,Caramel Macchiato,Mobile App,5.75,Cash,No,Jordan,Tourist,3,Almond Milk,1
+2024-12-16 08:39 AM,New York,Iced Latte,Online,6.0,Mobile Pay,Yes,Jordan,New,10,Double Espresso,1
+2024-12-25 02:13 PM,Texas,Caramel Macchiato,Online,5.21,Credit Card,Yes,Jamie,Regular,7,Whipped Cream,4
+2024-12-21 02:00 PM,Florida,Caramel Macchiato,In-Store,5.03,Cash,No,Chris,New,5,Almond Milk,4
+2024-12-15 08:09 AM,Florida,Caramel Macchiato,Mobile App,6.28,Mobile Pay,No,Chris,Regular,8,Extra Shot,5
+2024-12-30 11:39 AM,New York,Caramel Macchiato,In-Store,6.21,Mobile Pay,No,Maria,Tourist,8,Oat Milk,2
+2024-12-21 01:33 PM,Texas,Espresso,In-Store,3.4,Credit Card,Yes,Jordan,Tourist,8,Whipped Cream,3
+2024-12-28 10:20 AM,Texas,Iced Latte,In-Store,3.1,Credit Card,Yes,Alex,Tourist,10,Almond Milk,5
+2024-12-21 10:29 AM,Florida,Mocha,In-Store,5.61,Credit Card,No,Maria,Tourist,5,Oat Milk,4
+2024-12-27 08:17 AM,California,Mocha,Mobile App,3.09,Mobile Pay,Yes,Alex,New,3,Almond Milk,2
+2024-12-19 10:05 AM,California,Espresso,Online,6.65,Credit Card,No,Alex,New,2,Decaf,1
+2024-12-22 09:13 AM,New York,Espresso,Online,5.53,Cash,Yes,Maria,New,2,Extra Shot,5
+2024-12-25 08:07 AM,Florida,Flat White,Online,6.98,Mobile Pay,Yes,Maria,Tourist,6,Almond Milk,2
+2024-12-24 04:01 PM,Illinois,Cappuccino,In-Store,3.87,Cash,Yes,Maria,Regular,7,Extra Shot,2
+2024-12-16 10:17 AM,Florida,Espresso,In-Store,6.81,Cash,No,Jamie,Tourist,9,Decaf,5
+2024-12-30 11:16 AM,Texas,Mocha,Mobile App,6.38,Mobile Pay,No,Jamie,Regular,6,Extra Shot,2
+2024-12-30 03:27 PM,New York,Espresso,Mobile App,5.99,Cash,Yes,Taylor,New,8,Extra Shot,5
+2024-12-20 09:28 AM,Texas,Iced Latte,Mobile App,4.01,Cash,No,Taylor,Tourist,10,No Sugar,4
+2024-12-15 10:51 AM,Florida,Espresso,In-Store,4.43,Credit Card,Yes,Jordan,New,7,Extra Shot,3
+2024-12-16 01:44 PM,California,Americano,Online,3.86,Mobile Pay,No,Maria,Tourist,3,Decaf,3
+2024-12-24 04:13 PM,California,Cappuccino,Online,5.87,Mobile Pay,Yes,Taylor,Tourist,8,Oat Milk,4
+2024-12-20 01:12 PM,Texas,Iced Latte,Online,4.99,Cash,No,Alex,Regular,9,Extra Shot,5
+2024-12-20 02:15 PM,Illinois,Iced Latte,Online,3.07,Mobile Pay,Yes,Jamie,New,4,Whipped Cream,4
+2024-12-15 04:58 PM,Illinois,Iced Latte,Online,5.58,Credit Card,No,Alex,New,6,No Sugar,3
+2024-12-27 02:05 PM,Illinois,Caramel Macchiato,Online,4.98,Credit Card,No,Chris,Tourist,9,Decaf,1
+2024-12-28 05:06 PM,California,Mocha,In-Store,6.3,Credit Card,Yes,Chris,Tourist,8,Extra Shot,2
+2024-12-16 01:52 PM,Illinois,Iced Latte,Mobile App,6.47,Cash,Yes,Alex,Regular,6,Almond Milk,3
+2024-12-20 05:50 PM,New York,Flat White,Mobile App,3.68,Credit Card,No,Alex,Regular,7,Whipped Cream,2
+2024-12-27 02:40 PM,New York,Americano,In-Store,5.09,Credit Card,No,Jordan,New,6,No Sugar,4
+2024-12-18 12:49 PM,Florida,Americano,In-Store,4.41,Credit Card,Yes,Jordan,Regular,3,Decaf,1
+2024-12-18 11:29 AM,New York,Mocha,Online,3.42,Credit Card,No,Chris,Tourist,9,Oat Milk,2
+2024-12-28 09:58 AM,Texas,Mocha,Online,4.54,Cash,Yes,Jamie,Regular,3,No Sugar,4
+2024-12-17 12:55 PM,Illinois,Americano,In-Store,3.59,Credit Card,Yes,Maria,Regular,9,Extra Shot,3
+2024-12-15 04:28 PM,Florida,Flat White,In-Store,6.71,Credit Card,No,Jamie,Regular,4,Decaf,5
+2024-12-21 01:03 PM,New York,Flat White,Online,3.39,Mobile Pay,No,Jordan,New,5,No Sugar,2
+2024-12-21 05:17 PM,Illinois,Cappuccino,Online,5.07,Credit Card,Yes,Jordan,Regular,3,Extra Shot,1
+2024-12-15 08:36 AM,Florida,Mocha,In-Store,5.13,Cash,Yes,Taylor,Tourist,8,Decaf,4
+2024-12-16 12:31 PM,Texas,Mocha,In-Store,4.39,Cash,No,Jordan,Regular,3,Extra Shot,5
+2024-12-29 05:30 PM,Florida,Caramel Macchiato,Mobile App,3.95,Cash,Yes,Maria,Regular,7,Decaf,2
+2024-12-30 03:27 PM,Florida,Iced Latte,In-Store,6.9,Credit Card,Yes,Jordan,Regular,7,Decaf,5
+2024-12-15 11:30 AM,California,Iced Latte,In-Store,5.27,Cash,Yes,Taylor,Tourist,4,Whipped Cream,2
+2024-12-27 09:19 AM,Florida,Espresso,Online,5.94,Mobile Pay,No,Jordan,New,6,No Sugar,4
+2024-12-15 01:19 PM,Florida,Cappuccino,Mobile App,6.43,Mobile Pay,No,Alex,New,10,Oat Milk,1
+2024-12-17 02:54 PM,Texas,Americano,In-Store,4.43,Credit Card,Yes,Taylor,Tourist,8,No Sugar,2
+2024-12-26 11:58 AM,New York,Americano,In-Store,6.86,Mobile Pay,No,Taylor,Regular,6,Oat Milk,3
+2024-12-29 02:37 PM,New York,Flat White,Online,3.76,Mobile Pay,No,Taylor,Regular,8,Whipped Cream,4
+2024-12-24 01:18 PM,California,Iced Latte,Online,6.71,Credit Card,No,Jordan,Regular,10,No Sugar,5
+2024-12-23 10:19 AM,New York,Flat White,In-Store,6.2,Credit Card,No,Alex,Regular,6,Whipped Cream,5
+2024-12-16 03:19 PM,California,Espresso,Online,5.64,Credit Card,Yes,Chris,Regular,7,No Sugar,5
+2024-12-25 04:09 PM,California,Americano,Online,3.57,Mobile Pay,Yes,Jamie,Tourist,3,No Sugar,2
+2024-12-15 01:15 PM,New York,Espresso,Online,6.87,Credit Card,No,Chris,Tourist,6,Extra Shot,5
+2024-12-21 01:51 PM,Illinois,Mocha,Mobile App,6.07,Cash,Yes,Jamie,Tourist,5,No Sugar,3
+2024-12-16 05:59 PM,New York,Cappuccino,In-Store,4.5,Cash,Yes,Maria,Tourist,9,Oat Milk,3
+2024-12-23 01:29 PM,Florida,Espresso,Online,4.68,Cash,No,Alex,Tourist,2,Whipped Cream,4
+2024-12-16 10:39 AM,Florida,Caramel Macchiato,In-Store,5.32,Cash,Yes,Taylor,Tourist,6,Almond Milk,4
+2024-12-17 08:29 AM,Illinois,Espresso,In-Store,3.34,Cash,Yes,Chris,Tourist,3,Whipped Cream,3
+2024-12-24 01:55 PM,California,Iced Latte,Mobile App,5.34,Mobile Pay,Yes,Jordan,Regular,10,Extra Shot,5
+2024-12-26 03:08 PM,Texas,Americano,Mobile App,6.41,Cash,No,Jordan,Regular,9,Double Espresso,2
+2024-12-16 08:09 AM,Illinois,Iced Latte,Mobile App,3.39,Credit Card,Yes,Jamie,Regular,10,Decaf,4
+2024-12-15 09:19 AM,New York,Espresso,In-Store,6.28,Mobile Pay,No,Taylor,Tourist,9,Whipped Cream,5
+2024-12-16 10:40 AM,California,Mocha,In-Store,6.27,Mobile Pay,Yes,Maria,Tourist,10,Extra Shot,4
+2024-12-22 12:42 PM,California,Cappuccino,Online,4.47,Cash,No,Jamie,Tourist,3,Decaf,4
+2024-12-28 10:01 AM,Florida,Espresso,In-Store,5.26,Credit Card,No,Alex,Tourist,9,Almond Milk,3
+2024-12-30 03:56 PM,New York,Flat White,In-Store,6.93,Cash,Yes,Chris,Tourist,10,Decaf,5
+2024-12-16 10:22 AM,Illinois,Flat White,Online,5.86,Credit Card,No,Jordan,New,8,Almond Milk,4
+2024-12-21 03:38 PM,Texas,Cappuccino,Mobile App,6.71,Mobile Pay,No,Maria,Tourist,7,Double Espresso,5
+2024-12-20 05:53 PM,New York,Iced Latte,In-Store,3.12,Mobile Pay,Yes,Maria,Regular,3,Decaf,4
+2024-12-20 11:49 AM,Texas,Iced Latte,In-Store,5.91,Cash,No,Alex,Regular,6,Almond Milk,1
+2024-12-28 09:28 AM,Florida,Cappuccino,Mobile App,6.36,Credit Card,No,Alex,Tourist,9,Decaf,2
+2024-12-30 05:35 PM,Texas,Mocha,Online,4.96,Mobile Pay,No,Maria,Regular,4,Decaf,5
+2024-12-27 11:05 AM,Illinois,Iced Latte,Mobile App,6.84,Credit Card,Yes,Alex,Regular,2,No Sugar,4
+2024-12-24 09:21 AM,Texas,Americano,Mobile App,6.83,Mobile Pay,No,Maria,Regular,9,Double Espresso,3
+2024-12-20 04:54 PM,Texas,Caramel Macchiato,In-Store,4.76,Mobile Pay,No,Alex,Tourist,3,Extra Shot,5
+2024-12-19 09:31 AM,Texas,Iced Latte,Mobile App,5.16,Credit Card,Yes,Chris,New,8,Oat Milk,3
+2024-12-16 10:18 AM,California,Cappuccino,Mobile App,3.97,Mobile Pay,No,Jamie,Tourist,2,Double Espresso,1
+2024-12-24 12:41 PM,California,Iced Latte,Online,4.69,Credit Card,No,Alex,Regular,5,Double Espresso,3
+2024-12-29 08:15 AM,New York,Iced Latte,Mobile App,6.62,Mobile Pay,Yes,Chris,Regular,8,Double Espresso,5
+2024-12-29 04:30 PM,Texas,Flat White,Mobile App,3.17,Credit Card,No,Taylor,Regular,7,Decaf,4
+2024-12-19 11:01 AM,California,Iced Latte,In-Store,5.14,Cash,Yes,Taylor,New,2,Decaf,4
+2024-12-26 02:44 PM,New York,Cappuccino,In-Store,3.46,Credit Card,No,Chris,Regular,7,Decaf,1
+2024-12-18 09:37 AM,California,Mocha,Online,5.99,Mobile Pay,Yes,Alex,Tourist,5,Whipped Cream,1
+2024-12-16 10:28 AM,Texas,Flat White,In-Store,4.26,Mobile Pay,Yes,Chris,Regular,8,Decaf,1
+2024-12-25 09:16 AM,Illinois,Mocha,Online,5.82,Cash,Yes,Jamie,Tourist,6,No Sugar,5
+2024-12-19 11:33 AM,Florida,Flat White,Mobile App,5.17,Credit Card,Yes,Chris,New,9,No Sugar,1
+2024-12-18 10:53 AM,Illinois,Mocha,Online,5.97,Credit Card,Yes,Chris,Tourist,4,Almond Milk,2
+2024-12-26 03:07 PM,California,Espresso,In-Store,4.08,Mobile Pay,No,Chris,Regular,2,No Sugar,5
+2024-12-21 08:55 AM,New York,Espresso,Online,3.18,Credit Card,No,Maria,Tourist,8,Double Espresso,1
+2024-12-25 08:34 AM,Florida,Iced Latte,Mobile App,6.02,Cash,No,Taylor,Regular,2,No Sugar,5
+2024-12-21 02:50 PM,California,Caramel Macchiato,In-Store,5.21,Mobile Pay,No,Taylor,New,8,Double Espresso,5
+2024-12-27 12:10 PM,New York,Espresso,Mobile App,6.97,Credit Card,Yes,Alex,New,6,Almond Milk,2
+2024-12-27 12:21 PM,Illinois,Espresso,In-Store,5.46,Cash,No,Jordan,New,2,Almond Milk,3
+2024-12-24 01:53 PM,Florida,Caramel Macchiato,In-Store,4.78,Credit Card,No,Alex,New,2,No Sugar,4
+2024-12-25 04:13 PM,New York,Iced Latte,Mobile App,6.76,Cash,No,Alex,New,4,No Sugar,3
+2024-12-19 03:08 PM,Texas,Americano,In-Store,3.59,Mobile Pay,Yes,Maria,Regular,2,Extra Shot,5
+2024-12-28 05:20 PM,California,Cappuccino,Mobile App,3.91,Mobile Pay,No,Chris,Regular,7,Double Espresso,1
+2024-12-24 01:06 PM,California,Cappuccino,Online,3.45,Credit Card,Yes,Maria,New,7,Whipped Cream,4
+2024-12-16 02:56 PM,Florida,Mocha,In-Store,4.31,Cash,No,Jamie,Tourist,7,Decaf,3
+2024-12-24 10:23 AM,California,Flat White,In-Store,6.65,Credit Card,Yes,Taylor,Regular,7,Double Espresso,5
+2024-12-27 01:13 PM,New York,Caramel Macchiato,Mobile App,3.13,Mobile Pay,Yes,Jamie,Tourist,3,Almond Milk,2
+2024-12-24 05:40 PM,Illinois,Americano,Online,5.16,Credit Card,Yes,Taylor,New,10,Double Espresso,4
+2024-12-20 11:53 AM,Illinois,Flat White,In-Store,4.31,Cash,Yes,Jamie,New,3,Oat Milk,2
+2024-12-22 02:23 PM,California,Flat White,Mobile App,5.02,Cash,No,Taylor,Regular,9,Whipped Cream,4
+2024-12-18 10:59 AM,Illinois,Mocha,Online,5.7,Mobile Pay,Yes,Taylor,New,6,No Sugar,3
+2024-12-16 02:26 PM,Illinois,Mocha,Mobile App,4.98,Credit Card,Yes,Jamie,Regular,4,Almond Milk,4
+2024-12-19 04:45 PM,New York,Americano,In-Store,3.51,Credit Card,No,Alex,Tourist,4,Almond Milk,2
+2024-12-23 04:58 PM,New York,Espresso,Online,3.51,Mobile Pay,Yes,Jordan,New,3,No Sugar,3
+2024-12-24 05:06 PM,California,Iced Latte,Mobile App,6.68,Cash,No,Jordan,New,8,No Sugar,4
+2024-12-26 10:46 AM,Illinois,Caramel Macchiato,Mobile App,3.34,Credit Card,No,Jordan,Tourist,9,Decaf,3
+2024-12-22 04:46 PM,Illinois,Flat White,In-Store,3.93,Cash,No,Alex,Tourist,10,Double Espresso,5
+2024-12-23 02:18 PM,Florida,Espresso,Online,6.03,Credit Card,Yes,Jordan,Tourist,5,Decaf,5
+2024-12-19 05:20 PM,California,Flat White,Online,3.66,Cash,No,Jamie,New,5,Extra Shot,3
+2024-12-30 12:38 PM,California,Mocha,Mobile App,4.11,Credit Card,Yes,Taylor,Tourist,4,Almond Milk,5
+2024-12-29 04:34 PM,Texas,Iced Latte,Online,6.33,Credit Card,No,Maria,New,8,Oat Milk,4
+2024-12-23 03:18 PM,California,Americano,Mobile App,6.68,Credit Card,No,Jamie,New,6,Almond Milk,2
+2024-12-30 09:22 AM,California,Americano,In-Store,5.91,Cash,Yes,Taylor,New,6,Decaf,5
+2024-12-25 09:45 AM,Florida,Iced Latte,Online,3.4,Mobile Pay,No,Maria,Tourist,2,Oat Milk,1
+2024-12-18 05:24 PM,Texas,Americano,In-Store,4.06,Credit Card,No,Maria,Tourist,9,No Sugar,2
+2024-12-18 09:33 AM,Texas,Iced Latte,Online,3.27,Mobile Pay,Yes,Jordan,Regular,2,Decaf,3
+2024-12-24 05:15 PM,Florida,Espresso,Mobile App,5.63,Credit Card,No,Maria,New,9,Decaf,4
+2024-12-24 04:30 PM,Florida,Iced Latte,In-Store,3.45,Cash,No,Jamie,New,5,Oat Milk,4
+2024-12-16 03:20 PM,California,Flat White,Mobile App,4.59,Credit Card,No,Jamie,Tourist,8,Oat Milk,2
+2024-12-15 12:32 PM,Texas,Caramel Macchiato,Online,3.24,Cash,No,Jordan,New,8,Decaf,4
+2024-12-21 12:58 PM,California,Flat White,Online,5.91,Cash,Yes,Chris,New,8,Extra Shot,5
+2024-12-29 04:13 PM,California,Cappuccino,Mobile App,4.32,Mobile Pay,Yes,Jordan,Regular,8,Almond Milk,3
+2024-12-29 04:04 PM,California,Cappuccino,In-Store,4.45,Credit Card,Yes,Taylor,New,5,No Sugar,2
+2024-12-29 01:26 PM,Texas,Cappuccino,Mobile App,3.99,Credit Card,Yes,Alex,Tourist,3,Double Espresso,4
+2024-12-27 08:10 AM,Florida,Flat White,In-Store,3.92,Mobile Pay,Yes,Alex,New,3,Whipped Cream,4
+2024-12-25 10:52 AM,Florida,Caramel Macchiato,In-Store,3.31,Mobile Pay,No,Alex,Regular,10,Double Espresso,2
+2024-12-16 05:50 PM,New York,Mocha,Mobile App,6.44,Cash,No,Taylor,Tourist,2,No Sugar,3
+2024-12-22 09:16 AM,Illinois,Espresso,Online,4.16,Credit Card,Yes,Jamie,Tourist,6,Decaf,3
+2024-12-29 04:32 PM,Texas,Espresso,In-Store,6.97,Mobile Pay,No,Chris,Tourist,3,Decaf,2
+2024-12-24 08:25 AM,Texas,Espresso,Online,4.91,Credit Card,No,Chris,Regular,3,Almond Milk,5
+2024-12-17 03:37 PM,Texas,Iced Latte,In-Store,4.61,Cash,Yes,Alex,New,6,Decaf,3
+2024-12-26 10:02 AM,Florida,Americano,Mobile App,5.39,Credit Card,No,Jordan,Regular,10,Whipped Cream,4
+2024-12-23 01:41 PM,Texas,Flat White,Online,5.84,Mobile Pay,Yes,Alex,New,3,Decaf,2
+2024-12-27 10:33 AM,California,Mocha,In-Store,4.75,Credit Card,Yes,Jamie,New,4,Oat Milk,5
+2024-12-22 04:26 PM,New York,Iced Latte,Online,3.47,Cash,No,Taylor,New,7,Double Espresso,2
+2024-12-17 04:43 PM,Texas,Caramel Macchiato,Mobile App,6.81,Cash,No,Jamie,New,5,No Sugar,2
+2024-12-17 03:00 PM,Florida,Espresso,In-Store,3.6,Credit Card,Yes,Chris,Tourist,5,Extra Shot,1
+2024-12-23 01:06 PM,California,Cappuccino,Online,5.38,Credit Card,No,Jordan,Tourist,5,No Sugar,1
+2024-12-29 12:18 PM,New York,Cappuccino,Mobile App,4.22,Mobile Pay,No,Chris,Tourist,10,Oat Milk,2
+2024-12-16 10:06 AM,Texas,Flat White,In-Store,4.05,Credit Card,Yes,Taylor,Tourist,8,No Sugar,5
+2024-12-27 05:38 PM,Florida,Caramel Macchiato,Mobile App,6.49,Mobile Pay,No,Maria,Regular,2,Whipped Cream,2
+2024-12-30 09:59 AM,Illinois,Mocha,In-Store,3.66,Credit Card,No,Alex,Regular,4,Double Espresso,4
+2024-12-21 03:20 PM,Florida,Cappuccino,In-Store,3.96,Cash,No,Jamie,Tourist,9,No Sugar,3
+2024-12-28 01:33 PM,California,Cappuccino,In-Store,6.82,Mobile Pay,No,Jordan,Regular,8,Double Espresso,4
+2024-12-22 12:43 PM,California,Cappuccino,Online,5.61,Credit Card,Yes,Chris,New,7,Oat Milk,4
+2024-12-18 04:56 PM,Texas,Espresso,Online,3.72,Mobile Pay,Yes,Maria,New,7,Double Espresso,2
+2024-12-15 12:21 PM,California,Flat White,Online,5.01,Credit Card,No,Alex,Tourist,6,Oat Milk,4
+2024-12-21 12:17 PM,California,Cappuccino,In-Store,6.45,Cash,No,Jamie,Regular,9,Oat Milk,5
+2024-12-27 08:23 AM,California,Cappuccino,Mobile App,3.61,Mobile Pay,Yes,Maria,Regular,8,Whipped Cream,1
+2024-12-15 08:20 AM,California,Caramel Macchiato,Mobile App,4.11,Credit Card,Yes,Chris,Tourist,7,Oat Milk,2
+2024-12-29 05:46 PM,Florida,Cappuccino,In-Store,6.76,Cash,No,Jordan,Tourist,2,Almond Milk,2
+2024-12-28 04:09 PM,Florida,Iced Latte,In-Store,4.77,Cash,Yes,Jordan,Tourist,8,Extra Shot,1
+2024-12-19 04:22 PM,California,Flat White,Online,5.27,Mobile Pay,Yes,Taylor,New,3,Almond Milk,1
+2024-12-17 09:11 AM,Florida,Cappuccino,Mobile App,6.86,Credit Card,Yes,Maria,Tourist,7,Decaf,1
+2024-12-29 11:19 AM,Texas,Americano,Mobile App,3.53,Credit Card,No,Jordan,New,4,No Sugar,2
+2024-12-24 02:14 PM,Texas,Flat White,In-Store,3.71,Cash,No,Jordan,New,6,Almond Milk,4
+2024-12-20 01:22 PM,Illinois,Espresso,Mobile App,5.75,Credit Card,Yes,Taylor,New,4,Double Espresso,5
+2024-12-18 02:22 PM,Florida,Mocha,Online,5.8,Mobile Pay,No,Alex,Tourist,5,No Sugar,2
+2024-12-22 08:59 AM,California,Cappuccino,Mobile App,5.52,Cash,Yes,Jamie,Tourist,7,No Sugar,5
+2024-12-21 05:57 PM,California,Flat White,Mobile App,3.42,Cash,Yes,Maria,New,9,No Sugar,3
+2024-12-25 09:11 AM,Florida,Flat White,In-Store,4.87,Credit Card,Yes,Jamie,Tourist,9,Double Espresso,5
+2024-12-26 02:30 PM,Texas,Flat White,Mobile App,4.49,Cash,No,Jordan,New,6,Almond Milk,2
+2024-12-27 04:06 PM,New York,Espresso,Online,6.82,Cash,Yes,Maria,Tourist,4,No Sugar,5
+2024-12-30 04:12 PM,Illinois,Caramel Macchiato,In-Store,3.52,Cash,Yes,Alex,New,4,Whipped Cream,3
+2024-12-22 10:29 AM,California,Americano,In-Store,3.8,Credit Card,No,Chris,Regular,4,Extra Shot,2
+2024-12-21 11:09 AM,Illinois,Caramel Macchiato,Online,3.02,Credit Card,No,Alex,New,10,Oat Milk,4
+2024-12-26 03:42 PM,New York,Caramel Macchiato,Online,5.82,Credit Card,No,Maria,New,4,Decaf,3
+2024-12-29 02:38 PM,New York,Cappuccino,In-Store,4.39,Mobile Pay,Yes,Maria,Tourist,4,Whipped Cream,2
+2024-12-20 01:32 PM,California,Cappuccino,Mobile App,6.01,Credit Card,Yes,Maria,New,5,Almond Milk,2
+2024-12-19 09:21 AM,New York,Americano,In-Store,4.7,Cash,No,Jamie,Tourist,9,Almond Milk,3
+2024-12-30 02:11 PM,Texas,Espresso,Mobile App,5.07,Credit Card,No,Alex,New,3,Oat Milk,4
+2024-12-27 08:10 AM,Florida,Mocha,Mobile App,5.03,Mobile Pay,No,Alex,New,8,Decaf,1
+2024-12-19 12:47 PM,California,Cappuccino,Online,5.01,Cash,No,Taylor,New,3,Whipped Cream,2
+2024-12-30 04:48 PM,New York,Caramel Macchiato,Mobile App,3.32,Credit Card,No,Jordan,Tourist,6,Extra Shot,5
+2024-12-28 03:27 PM,California,Espresso,Online,3.16,Cash,No,Chris,Regular,7,No Sugar,4
+2024-12-20 12:49 PM,California,Cappuccino,Online,3.71,Cash,No,Alex,New,7,No Sugar,1
+2024-12-24 01:46 PM,California,Cappuccino,Mobile App,4.58,Credit Card,Yes,Taylor,Regular,4,Oat Milk,2
+2024-12-25 02:57 PM,Florida,Flat White,Online,5.76,Credit Card,No,Alex,Regular,7,No Sugar,1
+2024-12-17 09:24 AM,Illinois,Americano,In-Store,4.35,Mobile Pay,No,Jamie,New,2,Extra Shot,3
+2024-12-26 09:53 AM,New York,Iced Latte,In-Store,5.28,Cash,Yes,Jordan,Regular,7,Double Espresso,4
+2024-12-18 02:17 PM,Texas,Flat White,Mobile App,5.69,Mobile Pay,No,Maria,Tourist,6,No Sugar,1
+2024-12-21 08:50 AM,New York,Americano,In-Store,4.1,Cash,No,Alex,Regular,5,Almond Milk,3
+2024-12-18 05:18 PM,Illinois,Caramel Macchiato,Online,5.35,Mobile Pay,No,Taylor,New,9,Double Espresso,1
+2024-12-20 01:22 PM,New York,Mocha,Online,6.42,Cash,Yes,Taylor,Tourist,4,Oat Milk,4
+2024-12-19 08:42 AM,Illinois,Iced Latte,Mobile App,4.95,Cash,Yes,Maria,Tourist,10,No Sugar,3
+2024-12-19 01:28 PM,New York,Iced Latte,In-Store,5.5,Credit Card,No,Taylor,New,8,Whipped Cream,1
+2024-12-27 12:35 PM,New York,Mocha,Online,6.68,Credit Card,No,Taylor,Regular,3,Decaf,2
+2024-12-18 09:36 AM,Florida,Mocha,In-Store,6.07,Mobile Pay,No,Taylor,New,7,Whipped Cream,2
+2024-12-21 05:17 PM,Florida,Caramel Macchiato,Online,5.52,Mobile Pay,No,Taylor,Tourist,10,Decaf,2
+2024-12-28 03:48 PM,New York,Flat White,Online,3.63,Credit Card,No,Chris,Regular,10,Whipped Cream,3
+2024-12-27 10:43 AM,California,Espresso,Mobile App,5.61,Cash,No,Maria,Tourist,2,Double Espresso,2
+2024-12-17 05:32 PM,California,Cappuccino,Mobile App,5.93,Credit Card,No,Taylor,Regular,4,Double Espresso,4
+2024-12-25 01:01 PM,Illinois,Caramel Macchiato,Mobile App,4.56,Mobile Pay,Yes,Maria,New,7,Oat Milk,2
+2024-12-17 11:20 AM,Texas,Flat White,In-Store,6.58,Credit Card,No,Jamie,Regular,9,Extra Shot,2
+2024-12-30 04:41 PM,California,Caramel Macchiato,Mobile App,6.35,Credit Card,Yes,Jamie,Tourist,3,Almond Milk,1
+2024-12-25 02:55 PM,Illinois,Espresso,Online,3.28,Cash,No,Jordan,Tourist,3,Oat Milk,5
+2024-12-25 04:45 PM,California,Espresso,Online,6.31,Credit Card,No,Jamie,Tourist,2,No Sugar,4
+2024-12-26 04:40 PM,New York,Espresso,In-Store,3.41,Cash,Yes,Jordan,Regular,7,Decaf,3
+2024-12-17 11:50 AM,New York,Mocha,Online,3.39,Mobile Pay,Yes,Jamie,Tourist,9,Whipped Cream,2
+2024-12-27 01:18 PM,New York,Flat White,Online,5.8,Mobile Pay,No,Taylor,Regular,4,Extra Shot,5
+2024-12-19 11:56 AM,Florida,Cappuccino,Online,5.86,Cash,Yes,Taylor,Tourist,6,Decaf,4
+2024-12-25 10:47 AM,Texas,Mocha,Mobile App,4.17,Cash,No,Jordan,Regular,2,Whipped Cream,2
+2024-12-24 10:37 AM,California,Flat White,Online,5.88,Mobile Pay,No,Jamie,Tourist,4,No Sugar,2
+2024-12-24 04:20 PM,Illinois,Flat White,Online,6.46,Cash,Yes,Taylor,New,4,Decaf,4
+2024-12-15 09:21 AM,Texas,Flat White,In-Store,3.9,Cash,Yes,Jordan,Regular,7,Decaf,4
+2024-12-24 08:53 AM,Illinois,Mocha,Mobile App,3.81,Mobile Pay,Yes,Jamie,Tourist,3,No Sugar,5
+2024-12-16 04:34 PM,Illinois,Caramel Macchiato,In-Store,6.88,Credit Card,No,Taylor,Tourist,5,Extra Shot,3
+2024-12-27 10:44 AM,Texas,Mocha,Mobile App,5.87,Credit Card,Yes,Taylor,New,10,No Sugar,1
+2024-12-26 09:57 AM,Texas,Cappuccino,Online,3.24,Credit Card,Yes,Taylor,Tourist,9,Decaf,1
+2024-12-23 08:20 AM,California,Mocha,Online,3.47,Credit Card,No,Maria,Regular,10,Double Espresso,2
+2024-12-24 12:36 PM,California,Cappuccino,Online,6.44,Credit Card,No,Jordan,Regular,9,Almond Milk,3
+2024-12-27 05:17 PM,New York,Americano,In-Store,4.31,Cash,No,Jordan,New,6,Whipped Cream,5
+2024-12-18 12:43 PM,Illinois,Cappuccino,Online,5.5,Credit Card,Yes,Jamie,Regular,7,Double Espresso,4
+2024-12-22 10:04 AM,New York,Americano,Online,3.38,Cash,No,Jordan,Tourist,10,Whipped Cream,2
+2024-12-18 09:48 AM,Texas,Mocha,Online,5.01,Cash,No,Alex,Tourist,6,Double Espresso,2
+2024-12-24 10:20 AM,Texas,Mocha,Online,6.14,Credit Card,Yes,Chris,Tourist,9,Oat Milk,5
+2024-12-27 12:14 PM,Florida,Espresso,Online,4.48,Cash,No,Jordan,New,7,Decaf,3
+2024-12-21 02:48 PM,New York,Iced Latte,Online,3.22,Cash,No,Jordan,Regular,9,Whipped Cream,3
+2024-12-15 11:13 AM,Florida,Flat White,Online,3.09,Cash,No,Chris,Tourist,10,Oat Milk,2
+2024-12-27 05:32 PM,New York,Caramel Macchiato,Online,3.43,Credit Card,Yes,Chris,Tourist,9,Oat Milk,5
+2024-12-22 08:49 AM,New York,Americano,Mobile App,4.95,Cash,No,Alex,Regular,2,Oat Milk,3
+2024-12-19 01:28 PM,Florida,Iced Latte,Online,3.54,Mobile Pay,Yes,Chris,Tourist,8,Whipped Cream,2
+2024-12-28 05:19 PM,Illinois,Mocha,Mobile App,3.35,Credit Card,No,Taylor,Tourist,6,Double Espresso,5
+2024-12-28 08:08 AM,California,Caramel Macchiato,Mobile App,5.85,Cash,No,Jamie,Tourist,5,Extra Shot,3
+2024-12-22 03:23 PM,Florida,Mocha,Mobile App,6.89,Cash,No,Taylor,Tourist,2,Extra Shot,1
+2024-12-25 02:25 PM,New York,Caramel Macchiato,In-Store,6.33,Credit Card,No,Alex,Tourist,8,Almond Milk,5
+2024-12-28 01:50 PM,Illinois,Espresso,Online,5.3,Mobile Pay,Yes,Jordan,Regular,3,Double Espresso,1
+2024-12-23 04:54 PM,California,Cappuccino,Online,5.44,Credit Card,Yes,Jordan,New,6,Decaf,4
+2024-12-29 10:41 AM,Florida,Iced Latte,In-Store,5.59,Cash,No,Taylor,Tourist,8,Almond Milk,4
+2024-12-24 08:39 AM,New York,Iced Latte,In-Store,3.9,Cash,Yes,Chris,Regular,7,Double Espresso,4
+2024-12-25 11:49 AM,Illinois,Flat White,Mobile App,6.47,Credit Card,Yes,Maria,Regular,6,Extra Shot,1
+2024-12-15 05:54 PM,California,Caramel Macchiato,In-Store,5.16,Credit Card,No,Chris,Regular,5,Extra Shot,3
+2024-12-17 12:14 PM,Texas,Caramel Macchiato,Online,3.11,Cash,Yes,Jamie,Regular,9,Whipped Cream,2
+2024-12-21 03:28 PM,New York,Mocha,In-Store,6.08,Mobile Pay,Yes,Alex,Regular,10,Double Espresso,5
+2024-12-16 11:07 AM,New York,Americano,Mobile App,4.43,Cash,No,Maria,Regular,3,Whipped Cream,5
+2024-12-20 12:32 PM,California,Espresso,In-Store,3.03,Cash,No,Alex,New,7,No Sugar,1
+2024-12-21 12:14 PM,California,Americano,Mobile App,6.24,Cash,Yes,Chris,Tourist,7,Almond Milk,2
+2024-12-28 10:36 AM,California,Mocha,Mobile App,3.62,Mobile Pay,No,Alex,Regular,5,Whipped Cream,3
+2024-12-20 02:52 PM,Texas,Espresso,In-Store,3.7,Mobile Pay,Yes,Jordan,Tourist,4,No Sugar,1
+2024-12-27 08:31 AM,Texas,Flat White,Online,5.5,Cash,No,Alex,Regular,7,Almond Milk,4
+2024-12-15 10:58 AM,New York,Iced Latte,Mobile App,4.51,Mobile Pay,Yes,Maria,Regular,2,No Sugar,2
+2024-12-16 09:07 AM,New York,Espresso,Online,6.42,Mobile Pay,No,Maria,Tourist,2,No Sugar,4
+2024-12-22 12:08 PM,Florida,Americano,Mobile App,4.46,Mobile Pay,Yes,Jamie,New,5,Extra Shot,2
+2024-12-23 10:14 AM,California,Americano,In-Store,5.87,Cash,Yes,Maria,Regular,6,Extra Shot,3
+2024-12-20 03:42 PM,Illinois,Cappuccino,Mobile App,5.31,Cash,Yes,Chris,New,7,Oat Milk,2
+2024-12-24 08:47 AM,New York,Americano,In-Store,6.18,Credit Card,Yes,Maria,Tourist,2,Whipped Cream,2
+2024-12-17 01:00 PM,Illinois,Espresso,Online,6.43,Credit Card,No,Jamie,Regular,9,Double Espresso,3
+2024-12-23 09:47 AM,Florida,Americano,Mobile App,6.7,Cash,Yes,Chris,New,9,Whipped Cream,5
+2024-12-22 09:42 AM,Florida,Caramel Macchiato,Mobile App,4.05,Cash,No,Jordan,Regular,10,Extra Shot,1
+2024-12-18 03:53 PM,California,Iced Latte,Mobile App,5.85,Credit Card,No,Chris,New,8,Double Espresso,1
+2024-12-30 04:11 PM,New York,Caramel Macchiato,Mobile App,3.78,Mobile Pay,Yes,Alex,Regular,7,Double Espresso,5
+2024-12-27 05:55 PM,Illinois,Cappuccino,In-Store,6.2,Cash,Yes,Jordan,Tourist,4,No Sugar,2
+2024-12-16 10:40 AM,Illinois,Mocha,Mobile App,3.61,Mobile Pay,No,Maria,New,2,Decaf,3
+2024-12-21 04:26 PM,New York,Espresso,Online,3.54,Cash,Yes,Alex,New,10,Oat Milk,3
+2024-12-18 05:38 PM,California,Iced Latte,Online,3.56,Cash,Yes,Maria,New,4,Oat Milk,4
+2024-12-21 11:15 AM,Florida,Iced Latte,In-Store,6.85,Cash,Yes,Jamie,Regular,4,Extra Shot,4
+2024-12-17 12:48 PM,Florida,Iced Latte,Mobile App,3.47,Cash,Yes,Jordan,Tourist,9,Extra Shot,4
+2024-12-19 09:34 AM,Illinois,Espresso,In-Store,3.28,Mobile Pay,No,Chris,Regular,8,Whipped Cream,3
+2024-12-16 03:27 PM,Illinois,Mocha,Mobile App,5.77,Cash,No,Maria,Tourist,3,Almond Milk,5
+2024-12-30 01:15 PM,New York,Caramel Macchiato,Mobile App,6.85,Cash,Yes,Jordan,Regular,6,Whipped Cream,3
+2024-12-29 04:21 PM,New York,Americano,Online,6.93,Credit Card,Yes,Alex,Tourist,9,Extra Shot,5
+2024-12-22 05:27 PM,Florida,Iced Latte,Mobile App,4.95,Mobile Pay,No,Taylor,Tourist,8,Almond Milk,5
+2024-12-16 09:36 AM,California,Iced Latte,In-Store,4.44,Mobile Pay,No,Jamie,Tourist,2,No Sugar,4
+2024-12-28 05:55 PM,Illinois,Iced Latte,Online,6.25,Mobile Pay,No,Jordan,Regular,5,Double Espresso,2
+2024-12-15 01:06 PM,Florida,Espresso,In-Store,5.92,Cash,No,Jordan,New,7,Extra Shot,3
+2024-12-22 08:20 AM,New York,Americano,Mobile App,4.05,Credit Card,Yes,Taylor,Tourist,7,Oat Milk,4
+2024-12-27 10:54 AM,New York,Caramel Macchiato,In-Store,4.34,Mobile Pay,Yes,Chris,New,3,Oat Milk,1
+2024-12-25 01:39 PM,New York,Americano,In-Store,6.03,Credit Card,No,Jordan,New,7,No Sugar,4
+2024-12-29 10:10 AM,Florida,Iced Latte,In-Store,3.76,Cash,No,Taylor,Tourist,4,Decaf,5
+2024-12-26 11:05 AM,California,Americano,Mobile App,6.66,Mobile Pay,No,Chris,Regular,7,Double Espresso,3
+2024-12-21 02:06 PM,Florida,Cappuccino,Mobile App,6.88,Cash,Yes,Jamie,Regular,5,Double Espresso,2
+2024-12-25 12:01 PM,New York,Mocha,Mobile App,6.93,Credit Card,Yes,Jamie,Tourist,5,Extra Shot,1
+2024-12-19 08:54 AM,Illinois,Espresso,Online,4.66,Mobile Pay,Yes,Jamie,Regular,10,Double Espresso,4
+2024-12-25 02:47 PM,Florida,Americano,Online,6.21,Cash,No,Chris,New,5,No Sugar,5
+2024-12-20 10:20 AM,Texas,Caramel Macchiato,Mobile App,5.32,Credit Card,No,Taylor,New,3,Whipped Cream,5
+2024-12-18 01:45 PM,Illinois,Caramel Macchiato,In-Store,4.86,Mobile Pay,Yes,Jamie,Tourist,9,Decaf,5
+2024-12-21 10:01 AM,Illinois,Espresso,Mobile App,5.6,Cash,No,Jordan,Regular,3,Oat Milk,3
+2024-12-16 12:36 PM,Florida,Americano,In-Store,5.85,Cash,No,Jordan,Regular,8,Extra Shot,4
+2024-12-19 12:21 PM,Texas,Cappuccino,Mobile App,6.79,Credit Card,No,Alex,Tourist,2,Oat Milk,3
+2024-12-24 09:39 AM,California,Cappuccino,Online,5.92,Mobile Pay,Yes,Maria,Tourist,4,Whipped Cream,2
+2024-12-15 03:46 PM,California,Flat White,In-Store,3.38,Cash,No,Jamie,New,9,Extra Shot,3
+2024-12-17 12:22 PM,Texas,Americano,Online,6.52,Cash,Yes,Maria,New,8,Extra Shot,2
+2024-12-20 09:21 AM,New York,Caramel Macchiato,In-Store,5.1,Credit Card,Yes,Taylor,Regular,7,Almond Milk,2
+2024-12-15 04:00 PM,California,Flat White,Online,4.23,Mobile Pay,No,Alex,Regular,5,Oat Milk,5
+2024-12-22 04:13 PM,Florida,Iced Latte,Mobile App,6.65,Mobile Pay,No,Taylor,Regular,9,Oat Milk,2
+2024-12-23 03:01 PM,Illinois,Iced Latte,Mobile App,6.55,Credit Card,No,Chris,Regular,7,Oat Milk,2
+2024-12-24 10:57 AM,California,Espresso,In-Store,5.41,Mobile Pay,No,Jamie,Tourist,10,Whipped Cream,4
+2024-12-27 09:42 AM,Illinois,Iced Latte,Online,3.98,Credit Card,Yes,Jamie,Regular,8,Almond Milk,3
+2024-12-15 03:51 PM,Illinois,Iced Latte,Mobile App,3.36,Mobile Pay,No,Taylor,Tourist,10,Double Espresso,4
+2024-12-27 11:18 AM,Florida,Mocha,Online,6.05,Cash,No,Jamie,New,8,Almond Milk,4
+2024-12-15 09:20 AM,Illinois,Espresso,Mobile App,4.56,Cash,No,Jordan,Tourist,2,Double Espresso,1
+2024-12-18 09:19 AM,Illinois,Americano,Mobile App,5.17,Mobile Pay,No,Jordan,Regular,10,Almond Milk,1
+2024-12-30 02:12 PM,Florida,Cappuccino,In-Store,6.29,Mobile Pay,No,Jordan,Tourist,10,Whipped Cream,2
+2024-12-23 08:58 AM,Texas,Iced Latte,Online,6.8,Credit Card,No,Alex,Tourist,5,Decaf,2
+2024-12-24 05:00 PM,California,Espresso,In-Store,6.6,Credit Card,No,Alex,Regular,7,Extra Shot,4
+2024-12-28 01:58 PM,New York,Iced Latte,In-Store,3.57,Credit Card,No,Jamie,Tourist,6,Extra Shot,3
+2024-12-21 08:26 AM,New York,Espresso,Online,6.37,Credit Card,No,Chris,Tourist,2,Oat Milk,4
+2024-12-15 03:08 PM,Texas,Iced Latte,Mobile App,3.46,Credit Card,No,Alex,Regular,10,No Sugar,2
+2024-12-30 12:43 PM,New York,Flat White,Mobile App,4.15,Mobile Pay,No,Alex,Regular,8,Whipped Cream,2
+2024-12-30 04:54 PM,New York,Mocha,In-Store,5.07,Credit Card,No,Jamie,Regular,3,Extra Shot,1
+2024-12-28 10:05 AM,California,Mocha,Online,5.46,Cash,Yes,Jamie,Tourist,2,Oat Milk,5
+2024-12-27 11:49 AM,Texas,Americano,Online,3.18,Credit Card,Yes,Chris,New,4,No Sugar,4
+2024-12-18 08:25 AM,New York,Mocha,Online,5.02,Credit Card,Yes,Jordan,Regular,7,Oat Milk,4
+2024-12-15 03:04 PM,Texas,Cappuccino,Mobile App,4.15,Credit Card,Yes,Taylor,New,2,Almond Milk,1
+2024-12-21 04:01 PM,Illinois,Americano,In-Store,5.9,Cash,No,Alex,Regular,3,Oat Milk,2
+2024-12-15 08:36 AM,California,Caramel Macchiato,Online,6.07,Credit Card,Yes,Jordan,Regular,10,Almond Milk,1
+2024-12-25 03:59 PM,Illinois,Americano,Online,4.13,Mobile Pay,No,Jamie,Tourist,5,Oat Milk,4
+2024-12-24 01:40 PM,New York,Espresso,In-Store,4.82,Cash,Yes,Maria,New,4,Decaf,3
+2024-12-29 01:47 PM,California,Espresso,Online,3.58,Cash,No,Jordan,Tourist,5,Decaf,2
+2024-12-28 01:13 PM,New York,Espresso,Online,4.84,Cash,No,Jamie,New,7,No Sugar,3
+2024-12-25 10:46 AM,Illinois,Mocha,In-Store,3.87,Credit Card,Yes,Jordan,Tourist,7,Decaf,5
+2024-12-28 02:23 PM,Florida,Mocha,Online,3.57,Credit Card,No,Chris,Tourist,8,Almond Milk,2
+2024-12-18 04:56 PM,Texas,Americano,Online,6.75,Cash,Yes,Jamie,Regular,5,Decaf,5
+2024-12-25 12:47 PM,Illinois,Caramel Macchiato,In-Store,5.56,Mobile Pay,Yes,Maria,New,7,Decaf,2
+2024-12-28 10:48 AM,New York,Flat White,Mobile App,6.73,Mobile Pay,Yes,Jordan,Regular,3,Almond Milk,1
+2024-12-15 08:21 AM,California,Flat White,Online,3.81,Credit Card,Yes,Chris,Regular,7,Double Espresso,3
+2024-12-24 03:30 PM,Florida,Americano,In-Store,4.16,Credit Card,Yes,Maria,Regular,8,Almond Milk,5
+2024-12-29 02:10 PM,Illinois,Cappuccino,Mobile App,4.88,Cash,Yes,Alex,Tourist,4,Decaf,1
+2024-12-27 10:56 AM,New York,Espresso,Online,4.91,Credit Card,No,Jamie,Tourist,4,Decaf,1
+2024-12-30 05:22 PM,Florida,Iced Latte,Online,3.28,Credit Card,No,Jordan,New,4,Almond Milk,2
+2024-12-30 01:18 PM,California,Flat White,Mobile App,6.93,Cash,Yes,Taylor,Tourist,8,Extra Shot,3
+2024-12-28 11:32 AM,Florida,Cappuccino,In-Store,4.96,Credit Card,Yes,Jordan,Regular,6,No Sugar,4
+2024-12-30 01:02 PM,Florida,Americano,Mobile App,4.83,Credit Card,No,Taylor,Regular,4,Whipped Cream,5
+2024-12-15 05:01 PM,Florida,Espresso,In-Store,6.62,Cash,No,Alex,Tourist,6,Oat Milk,4
+2024-12-20 04:54 PM,New York,Espresso,Mobile App,4.37,Cash,No,Taylor,Regular,9,No Sugar,3
+2024-12-16 03:58 PM,California,Caramel Macchiato,Mobile App,6.65,Mobile Pay,Yes,Alex,Regular,3,Extra Shot,1
+2024-12-17 09:09 AM,Illinois,Caramel Macchiato,In-Store,6.12,Credit Card,Yes,Jordan,Regular,7,Whipped Cream,5
+2024-12-16 05:40 PM,New York,Americano,Online,6.14,Credit Card,Yes,Alex,Tourist,4,Extra Shot,1
+2024-12-17 09:00 AM,New York,Caramel Macchiato,Mobile App,3.93,Credit Card,Yes,Jamie,New,10,Extra Shot,4
+2024-12-28 03:38 PM,Texas,Espresso,Online,5.93,Mobile Pay,Yes,Jamie,Regular,10,Almond Milk,1
+2024-12-17 11:16 AM,Texas,Cappuccino,Mobile App,6.89,Mobile Pay,Yes,Jordan,Regular,5,Extra Shot,3
+2024-12-27 11:10 AM,New York,Americano,Mobile App,4.19,Cash,No,Maria,New,6,Whipped Cream,3
+2024-12-26 04:00 PM,Florida,Flat White,In-Store,3.26,Credit Card,No,Chris,Tourist,2,Double Espresso,4
+2024-12-16 03:00 PM,California,Flat White,Mobile App,6.09,Cash,Yes,Taylor,New,7,Decaf,3
+2024-12-26 03:23 PM,New York,Flat White,Online,4.25,Mobile Pay,Yes,Maria,Tourist,4,Almond Milk,3
+2024-12-21 03:20 PM,New York,Espresso,Online,4.81,Credit Card,No,Jamie,Regular,4,Whipped Cream,3
+2024-12-21 10:25 AM,Florida,Iced Latte,Online,6.17,Mobile Pay,Yes,Maria,Tourist,4,Extra Shot,1
+2024-12-15 03:09 PM,Florida,Flat White,In-Store,3.09,Cash,Yes,Chris,Tourist,6,Extra Shot,2
+2024-12-22 03:27 PM,New York,Caramel Macchiato,In-Store,4.95,Mobile Pay,Yes,Chris,Regular,3,No Sugar,4
+2024-12-24 10:15 AM,Illinois,Espresso,In-Store,4.67,Credit Card,No,Jordan,Regular,7,Oat Milk,3
+2024-12-25 02:39 PM,California,Cappuccino,In-Store,5.12,Cash,No,Jordan,Regular,7,Double Espresso,4
+2024-12-16 03:23 PM,New York,Mocha,In-Store,6.78,Mobile Pay,Yes,Chris,Tourist,9,Whipped Cream,3
+2024-12-23 05:50 PM,Florida,Americano,In-Store,6.61,Cash,Yes,Jordan,Tourist,5,Whipped Cream,2
+2024-12-22 03:56 PM,California,Flat White,Mobile App,6.52,Cash,Yes,Taylor,New,3,Double Espresso,4
+2024-12-22 12:04 PM,New York,Espresso,In-Store,6.17,Cash,Yes,Chris,Regular,9,Extra Shot,2
+2024-12-25 01:22 PM,Illinois,Espresso,Mobile App,3.58,Cash,No,Jamie,New,10,Extra Shot,2
+2024-12-30 05:38 PM,California,Flat White,Mobile App,3.24,Credit Card,No,Maria,New,8,Oat Milk,1
+2024-12-19 11:09 AM,Florida,Iced Latte,In-Store,5.61,Cash,Yes,Chris,New,4,Decaf,4
+2024-12-23 05:28 PM,Florida,Iced Latte,Online,4.82,Credit Card,No,Chris,Regular,4,No Sugar,1
+2024-12-16 01:35 PM,New York,Flat White,In-Store,4.26,Mobile Pay,No,Taylor,Regular,8,Oat Milk,3
+2024-12-21 01:39 PM,California,Americano,Online,4.3,Mobile Pay,Yes,Taylor,Regular,4,Decaf,1
+2024-12-29 10:09 AM,California,Cappuccino,In-Store,6.76,Credit Card,Yes,Chris,New,7,Almond Milk,4
+2024-12-20 09:31 AM,New York,Cappuccino,In-Store,5.1,Mobile Pay,No,Jordan,Regular,10,Whipped Cream,1
+2024-12-28 03:10 PM,California,Caramel Macchiato,Online,3.91,Credit Card,Yes,Alex,Tourist,5,Decaf,1
+2024-12-15 11:09 AM,Texas,Cappuccino,Online,4.29,Mobile Pay,No,Alex,Tourist,6,Decaf,1
+2024-12-25 02:35 PM,California,Iced Latte,In-Store,5.36,Credit Card,Yes,Taylor,New,2,No Sugar,1
+2024-12-24 01:32 PM,Texas,Espresso,In-Store,3.61,Credit Card,No,Chris,Tourist,7,Double Espresso,4
+2024-12-17 11:48 AM,Illinois,Flat White,Online,3.78,Cash,No,Alex,Tourist,6,Decaf,1
+2024-12-22 04:49 PM,New York,Mocha,In-Store,3.45,Cash,Yes,Jordan,Regular,5,Whipped Cream,5
+2024-12-26 12:53 PM,Texas,Cappuccino,Online,4.44,Credit Card,Yes,Taylor,New,5,Double Espresso,1
+2024-12-19 11:53 AM,Texas,Caramel Macchiato,Online,3.83,Mobile Pay,No,Jordan,New,9,Decaf,5
+2024-12-27 03:30 PM,Illinois,Cappuccino,Online,6.18,Mobile Pay,Yes,Alex,Tourist,3,Almond Milk,1
+2024-12-24 08:17 AM,California,Flat White,Online,4.53,Mobile Pay,Yes,Alex,Regular,7,Extra Shot,2
+2024-12-30 01:04 PM,Florida,Espresso,Mobile App,3.09,Credit Card,Yes,Chris,Regular,6,Decaf,2
+2024-12-16 08:56 AM,New York,Mocha,In-Store,3.45,Mobile Pay,Yes,Jamie,Tourist,10,No Sugar,3
+2024-12-15 05:30 PM,California,Americano,Mobile App,3.61,Credit Card,No,Jordan,New,2,Almond Milk,4
+2024-12-21 03:26 PM,Texas,Iced Latte,Mobile App,6.59,Mobile Pay,Yes,Chris,Tourist,6,Oat Milk,4
+2024-12-18 12:01 PM,Florida,Caramel Macchiato,In-Store,3.94,Cash,Yes,Jordan,Regular,8,Double Espresso,4
+2024-12-27 08:18 AM,Florida,Iced Latte,Mobile App,4.47,Cash,Yes,Chris,Tourist,7,Oat Milk,5
+2024-12-23 01:47 PM,Florida,Espresso,In-Store,5.32,Cash,No,Chris,New,4,Whipped Cream,4
+2024-12-25 02:23 PM,New York,Iced Latte,Mobile App,4.01,Credit Card,No,Chris,Tourist,9,Decaf,5
+2024-12-28 10:56 AM,California,Flat White,Mobile App,6.67,Mobile Pay,Yes,Taylor,New,10,Oat Milk,2
+2024-12-28 05:08 PM,Texas,Caramel Macchiato,Mobile App,4.59,Cash,Yes,Taylor,Tourist,2,Double Espresso,1
+2024-12-24 12:59 PM,Illinois,Americano,In-Store,5.96,Mobile Pay,No,Jamie,Regular,7,Oat Milk,3
+2024-12-23 02:33 PM,New York,Mocha,Mobile App,4.4,Cash,Yes,Maria,Tourist,9,Extra Shot,2
+2024-12-26 04:51 PM,California,Espresso,In-Store,6.66,Mobile Pay,No,Maria,New,6,Whipped Cream,2
+2024-12-23 09:52 AM,Texas,Iced Latte,In-Store,3.12,Credit Card,Yes,Maria,Tourist,3,Almond Milk,3
+2024-12-22 09:27 AM,Florida,Americano,Online,3.04,Mobile Pay,No,Chris,New,7,Extra Shot,3
+2024-12-21 05:58 PM,New York,Americano,Mobile App,5.37,Mobile Pay,No,Alex,New,7,No Sugar,1
+2024-12-19 03:55 PM,New York,Caramel Macchiato,Mobile App,6.08,Cash,No,Jordan,New,2,Decaf,1
+2024-12-30 09:30 AM,Florida,Cappuccino,In-Store,3.33,Mobile Pay,Yes,Jamie,New,7,Extra Shot,5
+2024-12-30 08:20 AM,Florida,Cappuccino,Mobile App,6.42,Credit Card,No,Alex,Regular,4,Double Espresso,1
+2024-12-29 03:04 PM,Illinois,Mocha,Online,4.1,Mobile Pay,No,Taylor,Tourist,2,No Sugar,5
+2024-12-16 04:31 PM,Texas,Espresso,Online,6.41,Credit Card,No,Taylor,New,8,Almond Milk,2
+2024-12-30 09:12 AM,New York,Espresso,In-Store,3.02,Mobile Pay,Yes,Jamie,Regular,6,Extra Shot,2
+2024-12-20 05:54 PM,New York,Mocha,Mobile App,4.78,Mobile Pay,Yes,Alex,Regular,4,Extra Shot,5
+2024-12-24 03:31 PM,Florida,Caramel Macchiato,Mobile App,4.72,Mobile Pay,No,Jordan,Tourist,3,Decaf,4
+2024-12-15 02:35 PM,New York,Iced Latte,In-Store,3.35,Mobile Pay,No,Jamie,New,10,Extra Shot,2
+2024-12-16 10:05 AM,Illinois,Mocha,Mobile App,3.79,Mobile Pay,No,Taylor,New,9,Almond Milk,2
+2024-12-24 09:35 AM,California,Mocha,In-Store,3.59,Credit Card,No,Alex,New,2,Double Espresso,1
+2024-12-16 12:37 PM,Illinois,Iced Latte,Online,6.52,Credit Card,No,Maria,New,5,Extra Shot,4
+2024-12-22 11:06 AM,Texas,Espresso,Mobile App,5.53,Mobile Pay,Yes,Maria,Tourist,4,Whipped Cream,5
+2024-12-17 09:30 AM,Illinois,Iced Latte,Mobile App,3.66,Mobile Pay,No,Jordan,New,5,Whipped Cream,3
+2024-12-21 02:02 PM,Florida,Caramel Macchiato,Online,3.11,Mobile Pay,No,Jamie,New,5,Oat Milk,2
+2024-12-22 04:56 PM,New York,Americano,Mobile App,3.63,Mobile Pay,No,Jamie,Regular,8,Double Espresso,1
+2024-12-21 04:05 PM,Texas,Caramel Macchiato,Mobile App,3.16,Cash,No,Chris,New,7,No Sugar,5
+2024-12-24 12:54 PM,New York,Cappuccino,Online,4.54,Mobile Pay,Yes,Jamie,New,3,Oat Milk,4
+2024-12-30 04:33 PM,Illinois,Americano,In-Store,4.01,Cash,No,Chris,Tourist,10,Extra Shot,3
+2024-12-29 01:58 PM,Texas,Cappuccino,In-Store,4.39,Cash,Yes,Chris,Tourist,8,No Sugar,3
+2024-12-24 11:49 AM,Illinois,Caramel Macchiato,In-Store,6.21,Mobile Pay,No,Maria,Tourist,7,Oat Milk,5
+2024-12-23 11:51 AM,New York,Cappuccino,Mobile App,3.69,Mobile Pay,No,Jordan,Regular,5,Double Espresso,3
+2024-12-17 03:23 PM,Texas,Espresso,Online,5.87,Mobile Pay,No,Taylor,New,4,No Sugar,5
+2024-12-16 09:24 AM,Illinois,Espresso,In-Store,3.27,Cash,No,Jamie,Tourist,6,Double Espresso,5
+2024-12-21 12:03 PM,New York,Americano,Online,5.38,Cash,No,Jamie,New,3,Extra Shot,2
+2024-12-16 08:02 AM,California,Flat White,In-Store,5.19,Cash,Yes,Alex,Tourist,8,Extra Shot,1
+2024-12-29 05:03 PM,California,Iced Latte,Online,6.91,Mobile Pay,No,Chris,New,5,Extra Shot,2
+2024-12-24 05:48 PM,Florida,Cappuccino,Online,6.36,Credit Card,Yes,Taylor,Tourist,7,Whipped Cream,2
+2024-12-17 02:13 PM,Illinois,Cappuccino,In-Store,6.82,Credit Card,No,Jamie,Regular,3,Extra Shot,4
+2024-12-18 03:39 PM,Texas,Mocha,In-Store,4.12,Credit Card,Yes,Jordan,New,8,Double Espresso,5
+2024-12-28 03:13 PM,Texas,Iced Latte,In-Store,4.63,Cash,No,Maria,Tourist,8,Whipped Cream,5
+2024-12-27 08:34 AM,Florida,Mocha,Mobile App,4.97,Mobile Pay,No,Chris,Regular,9,Double Espresso,5
+2024-12-21 03:38 PM,Texas,Flat White,In-Store,5.81,Mobile Pay,No,Maria,New,5,Extra Shot,3
+2024-12-20 12:15 PM,Florida,Mocha,Online,5.4,Cash,Yes,Jordan,Tourist,5,Oat Milk,1
+2024-12-22 08:24 AM,Illinois,Flat White,Online,4.52,Cash,No,Jordan,New,8,Almond Milk,4
+2024-12-19 11:17 AM,Florida,Flat White,Online,3.63,Credit Card,Yes,Alex,New,7,Almond Milk,2
+2024-12-16 10:05 AM,Illinois,Americano,Mobile App,3.2,Credit Card,No,Jamie,Regular,6,Extra Shot,4
+2024-12-19 10:14 AM,New York,Flat White,In-Store,5.08,Credit Card,Yes,Taylor,Regular,4,No Sugar,5
+2024-12-22 02:57 PM,Texas,Mocha,In-Store,6.23,Credit Card,Yes,Alex,Regular,6,Whipped Cream,2
+2024-12-23 03:35 PM,Florida,Americano,In-Store,3.61,Credit Card,Yes,Alex,New,4,Whipped Cream,3
+2024-12-23 08:32 AM,Illinois,Iced Latte,Online,3.54,Credit Card,No,Maria,Regular,5,Whipped Cream,5
+2024-12-28 05:50 PM,Florida,Espresso,In-Store,4.82,Mobile Pay,Yes,Jordan,Regular,4,Oat Milk,5
+2024-12-27 09:24 AM,Texas,Iced Latte,Online,4.84,Cash,No,Taylor,Tourist,8,Double Espresso,4
+2024-12-30 04:22 PM,Illinois,Cappuccino,Mobile App,6.35,Cash,No,Taylor,New,4,Double Espresso,4
+2024-12-17 08:13 AM,California,Cappuccino,Online,6.37,Credit Card,No,Jamie,New,6,No Sugar,1
+2024-12-20 11:48 AM,California,Mocha,Online,6.1,Credit Card,No,Taylor,Tourist,4,Oat Milk,3
+2024-12-21 10:01 AM,Texas,Espresso,Online,4.95,Cash,No,Chris,Regular,9,Extra Shot,4
+2024-12-30 11:09 AM,California,Flat White,Online,3.21,Cash,No,Jordan,New,3,Double Espresso,3
+2024-12-20 04:35 PM,New York,Iced Latte,Online,3.27,Cash,Yes,Chris,Tourist,4,Almond Milk,1
+2024-12-17 04:17 PM,California,Iced Latte,Mobile App,3.87,Mobile Pay,No,Alex,New,8,No Sugar,5
+2024-12-22 05:20 PM,Florida,Flat White,In-Store,6.2,Mobile Pay,Yes,Jamie,New,8,Whipped Cream,5
+2024-12-15 04:46 PM,Illinois,Cappuccino,In-Store,6.99,Credit Card,No,Chris,Tourist,9,Oat Milk,3
+2024-12-17 11:05 AM,Illinois,Espresso,Online,4.58,Credit Card,Yes,Chris,Regular,4,Extra Shot,4
+2024-12-24 02:51 PM,Texas,Espresso,Mobile App,5.27,Credit Card,Yes,Alex,Regular,2,No Sugar,4
+2024-12-27 11:29 AM,Texas,Americano,Online,3.46,Mobile Pay,No,Chris,Tourist,7,Whipped Cream,4
+2024-12-30 12:36 PM,Illinois,Cappuccino,Mobile App,4.32,Mobile Pay,No,Taylor,Regular,10,Oat Milk,3
+2024-12-27 11:14 AM,California,Espresso,Online,4.09,Mobile Pay,No,Jamie,Tourist,8,Almond Milk,5
+2024-12-19 12:06 PM,Texas,Cappuccino,In-Store,6.38,Credit Card,Yes,Jamie,Regular,3,Oat Milk,5
+2024-12-23 02:47 PM,New York,Espresso,Mobile App,4.32,Credit Card,Yes,Maria,Tourist,9,Oat Milk,1
+2024-12-27 08:27 AM,New York,Caramel Macchiato,Online,3.62,Cash,Yes,Chris,New,3,No Sugar,2
+2024-12-22 03:59 PM,New York,Cappuccino,In-Store,4.62,Credit Card,No,Maria,Tourist,4,No Sugar,2
+2024-12-24 05:24 PM,California,Iced Latte,In-Store,3.33,Mobile Pay,Yes,Maria,Tourist,8,Decaf,1
+2024-12-29 10:03 AM,California,Espresso,In-Store,3.13,Cash,No,Jordan,Tourist,7,Oat Milk,5
+2024-12-16 10:57 AM,Florida,Flat White,In-Store,3.16,Mobile Pay,Yes,Alex,Tourist,2,Whipped Cream,2
+2024-12-27 02:52 PM,New York,Iced Latte,Online,5.37,Mobile Pay,Yes,Taylor,New,4,Almond Milk,4
+2024-12-24 12:10 PM,Illinois,Iced Latte,Online,5.43,Mobile Pay,No,Alex,New,7,Oat Milk,2
+2024-12-26 03:22 PM,Illinois,Flat White,Online,5.61,Cash,No,Maria,New,7,Extra Shot,2
+2024-12-22 10:02 AM,California,Iced Latte,Mobile App,6.5,Credit Card,Yes,Jamie,Regular,4,Oat Milk,1
+2024-12-19 01:44 PM,Florida,Cappuccino,In-Store,5.87,Cash,No,Alex,Tourist,10,Oat Milk,5
+2024-12-19 11:57 AM,New York,Americano,In-Store,4.46,Cash,Yes,Chris,Regular,2,Almond Milk,3
+2024-12-21 03:29 PM,New York,Caramel Macchiato,Mobile App,6.45,Cash,Yes,Chris,Tourist,8,Oat Milk,3
+2024-12-30 05:55 PM,Texas,Iced Latte,In-Store,6.82,Cash,Yes,Jamie,New,4,Almond Milk,2
+2024-12-18 05:31 PM,Florida,Mocha,Mobile App,3.72,Credit Card,Yes,Jordan,New,7,Whipped Cream,5
+2024-12-20 08:06 AM,New York,Caramel Macchiato,Mobile App,3.81,Credit Card,No,Jordan,Tourist,10,No Sugar,5
+2024-12-21 04:37 PM,Illinois,Cappuccino,In-Store,4.74,Mobile Pay,Yes,Jamie,Tourist,10,No Sugar,5
+2024-12-30 03:02 PM,Florida,Flat White,In-Store,4.63,Mobile Pay,Yes,Jamie,New,9,Double Espresso,5
+2024-12-18 01:53 PM,Illinois,Mocha,Online,4.06,Mobile Pay,Yes,Maria,Tourist,6,Decaf,3
+2024-12-15 11:02 AM,Texas,Caramel Macchiato,Online,3.96,Credit Card,No,Alex,Regular,6,Double Espresso,5
+2024-12-30 08:32 AM,Florida,Caramel Macchiato,Mobile App,5.65,Cash,Yes,Taylor,Tourist,10,No Sugar,1
+2024-12-28 02:35 PM,Florida,Mocha,Mobile App,5.62,Credit Card,No,Alex,New,5,Decaf,1
+2024-12-16 12:10 PM,Florida,Americano,Online,4.66,Cash,Yes,Jordan,Regular,7,Almond Milk,3
+2024-12-19 04:44 PM,Illinois,Americano,In-Store,3.3,Credit Card,Yes,Alex,Regular,3,Whipped Cream,3
+2024-12-30 09:48 AM,New York,Flat White,In-Store,5.0,Mobile Pay,No,Taylor,Regular,9,Oat Milk,5
+2024-12-19 09:22 AM,California,Flat White,In-Store,4.55,Credit Card,No,Jordan,Regular,3,Almond Milk,2
+2024-12-17 10:33 AM,Illinois,Mocha,Online,6.96,Mobile Pay,No,Alex,New,8,Whipped Cream,4
+2024-12-16 04:49 PM,New York,Mocha,In-Store,3.76,Mobile Pay,No,Taylor,Tourist,3,Oat Milk,2
+2024-12-28 03:35 PM,New York,Espresso,Online,5.57,Credit Card,Yes,Alex,New,5,Almond Milk,5
+2024-12-20 01:41 PM,Florida,Espresso,Mobile App,6.35,Cash,No,Alex,Regular,3,Double Espresso,5
+2024-12-23 09:37 AM,Texas,Espresso,Online,5.21,Mobile Pay,No,Alex,Tourist,2,Whipped Cream,3
+2024-12-18 04:52 PM,New York,Flat White,In-Store,6.43,Credit Card,No,Jordan,Regular,6,Whipped Cream,4
+2024-12-30 12:21 PM,New York,Iced Latte,Mobile App,4.46,Cash,No,Jordan,New,8,Almond Milk,1
+2024-12-30 01:11 PM,California,Caramel Macchiato,In-Store,6.73,Mobile Pay,Yes,Chris,Regular,3,No Sugar,3
+2024-12-20 09:11 AM,Illinois,Mocha,Mobile App,6.2,Credit Card,Yes,Chris,New,10,Whipped Cream,5
+2024-12-29 09:51 AM,Illinois,Cappuccino,Mobile App,5.18,Mobile Pay,No,Alex,New,2,No Sugar,4
+2024-12-16 01:17 PM,California,Mocha,In-Store,3.38,Mobile Pay,Yes,Alex,New,2,Decaf,3
+2024-12-21 09:16 AM,Texas,Cappuccino,Mobile App,6.58,Credit Card,Yes,Chris,Regular,4,Oat Milk,5
+2024-12-26 09:40 AM,California,Espresso,In-Store,5.91,Credit Card,Yes,Jordan,Tourist,10,Extra Shot,4
+2024-12-15 04:56 PM,Florida,Cappuccino,Mobile App,6.11,Credit Card,No,Taylor,Regular,2,Decaf,2
+2024-12-24 02:12 PM,Illinois,Flat White,Online,3.54,Mobile Pay,No,Taylor,New,6,Extra Shot,5
+2024-12-28 09:45 AM,New York,Flat White,Mobile App,5.42,Credit Card,Yes,Jamie,Tourist,5,Oat Milk,3
+2024-12-26 05:11 PM,Illinois,Iced Latte,Mobile App,4.0,Mobile Pay,Yes,Maria,Regular,2,Oat Milk,1
+2024-12-25 10:13 AM,Florida,Iced Latte,Mobile App,3.01,Credit Card,Yes,Jordan,Regular,8,Almond Milk,3
+2024-12-18 10:09 AM,California,Caramel Macchiato,Online,4.3,Cash,No,Jordan,Tourist,6,Decaf,2
+2024-12-28 10:13 AM,New York,Flat White,In-Store,6.48,Mobile Pay,Yes,Jamie,New,6,Decaf,1
+2024-12-19 02:29 PM,Texas,Iced Latte,In-Store,5.99,Mobile Pay,No,Maria,New,3,No Sugar,2
+2024-12-19 10:27 AM,California,Espresso,Mobile App,3.26,Cash,No,Chris,Tourist,5,Decaf,2
+2024-12-26 12:53 PM,New York,Espresso,Online,3.64,Credit Card,No,Maria,Regular,5,Oat Milk,4
+2024-12-21 04:32 PM,Texas,Iced Latte,Online,5.88,Mobile Pay,No,Jordan,Regular,6,Whipped Cream,5
+2024-12-27 02:01 PM,California,Cappuccino,In-Store,3.96,Cash,No,Maria,Tourist,10,Whipped Cream,5
+2024-12-24 04:58 PM,Texas,Americano,Online,6.91,Credit Card,Yes,Alex,New,10,Decaf,5
+2024-12-20 03:12 PM,Texas,Iced Latte,Mobile App,4.23,Cash,No,Jordan,New,5,Oat Milk,4
+2024-12-25 05:36 PM,Illinois,Flat White,In-Store,4.52,Mobile Pay,Yes,Maria,New,2,Whipped Cream,3
+2024-12-20 11:34 AM,Florida,Espresso,In-Store,4.72,Mobile Pay,Yes,Jordan,Regular,3,Double Espresso,2
+2024-12-18 08:13 AM,New York,Espresso,Mobile App,6.98,Credit Card,Yes,Jordan,Tourist,9,Oat Milk,2
+2024-12-18 11:13 AM,Florida,Iced Latte,In-Store,4.03,Mobile Pay,No,Alex,New,9,Extra Shot,1
+2024-12-20 11:39 AM,California,Iced Latte,Online,6.16,Mobile Pay,Yes,Alex,New,6,Double Espresso,2
+2024-12-25 08:59 AM,New York,Caramel Macchiato,In-Store,6.18,Cash,Yes,Alex,Tourist,5,Double Espresso,3
+2024-12-15 01:59 PM,Florida,Caramel Macchiato,Online,5.23,Credit Card,Yes,Jordan,Regular,2,Oat Milk,3
+2024-12-18 10:14 AM,California,Americano,In-Store,3.78,Credit Card,Yes,Maria,New,9,Almond Milk,4
+2024-12-18 10:02 AM,California,Americano,Mobile App,3.82,Mobile Pay,No,Jordan,New,4,Oat Milk,1
+2024-12-28 10:30 AM,New York,Iced Latte,In-Store,4.5,Mobile Pay,Yes,Jordan,New,3,Almond Milk,2
+2024-12-18 10:26 AM,California,Espresso,In-Store,5.8,Credit Card,No,Jordan,Tourist,10,Oat Milk,5
+2024-12-30 05:57 PM,Illinois,Flat White,Online,3.63,Mobile Pay,Yes,Jamie,New,4,Double Espresso,4
+2024-12-19 12:38 PM,Texas,Americano,In-Store,3.79,Cash,No,Taylor,New,3,Whipped Cream,5
+2024-12-16 10:57 AM,California,Mocha,Mobile App,5.8,Credit Card,No,Jamie,Tourist,4,Almond Milk,5
+2024-12-17 11:51 AM,Texas,Mocha,In-Store,5.03,Mobile Pay,Yes,Maria,Tourist,10,Almond Milk,3
+2024-12-23 09:16 AM,Florida,Flat White,Mobile App,3.54,Credit Card,Yes,Jamie,New,5,Extra Shot,2
+2024-12-26 09:33 AM,Texas,Cappuccino,Online,3.29,Mobile Pay,Yes,Jordan,New,9,Extra Shot,3
+2024-12-30 01:01 PM,California,Caramel Macchiato,In-Store,6.12,Mobile Pay,Yes,Jordan,Regular,3,No Sugar,2
+2024-12-27 05:05 PM,California,Americano,In-Store,4.92,Credit Card,No,Taylor,Tourist,7,Almond Milk,5
+2024-12-15 10:22 AM,Florida,Espresso,Mobile App,3.46,Mobile Pay,No,Chris,New,4,Almond Milk,5
+2024-12-28 05:42 PM,Illinois,Cappuccino,Online,4.15,Mobile Pay,Yes,Maria,Regular,6,Double Espresso,5
+2024-12-27 01:24 PM,New York,Iced Latte,Mobile App,4.74,Credit Card,Yes,Taylor,Regular,2,Oat Milk,3
+2024-12-29 02:22 PM,Florida,Iced Latte,Online,5.9,Cash,Yes,Jamie,New,3,Extra Shot,4
+2024-12-17 12:32 PM,Texas,Flat White,Online,5.65,Cash,No,Maria,Tourist,8,Oat Milk,1
+2024-12-23 08:40 AM,New York,Iced Latte,Online,3.83,Cash,No,Taylor,New,2,Whipped Cream,5
+2024-12-27 04:11 PM,Texas,Iced Latte,In-Store,4.07,Credit Card,Yes,Jamie,New,10,Almond Milk,5
+2024-12-29 08:16 AM,Florida,Caramel Macchiato,Mobile App,3.71,Cash,No,Maria,Tourist,5,Decaf,2
+2024-12-23 09:25 AM,Florida,Mocha,In-Store,5.69,Credit Card,No,Taylor,Tourist,6,Oat Milk,2
+2024-12-23 12:26 PM,Florida,Mocha,In-Store,3.97,Cash,Yes,Chris,Tourist,10,Decaf,2
+2024-12-16 12:05 PM,New York,Caramel Macchiato,In-Store,6.29,Cash,No,Maria,New,7,Whipped Cream,3
+2024-12-28 08:11 AM,New York,Caramel Macchiato,In-Store,5.88,Cash,No,Taylor,Tourist,4,No Sugar,2
+2024-12-30 08:42 AM,California,Espresso,Online,4.23,Cash,No,Taylor,Tourist,10,Double Espresso,1
+2024-12-27 09:23 AM,Texas,Cappuccino,Mobile App,5.0,Credit Card,No,Chris,Tourist,4,Decaf,5
+2024-12-28 08:43 AM,Florida,Iced Latte,Online,5.75,Credit Card,No,Maria,Regular,5,Extra Shot,3
+2024-12-18 04:16 PM,Illinois,Flat White,Mobile App,3.49,Mobile Pay,Yes,Maria,Regular,3,Almond Milk,5
+2024-12-22 03:46 PM,California,Cappuccino,In-Store,5.43,Credit Card,Yes,Taylor,Regular,5,Decaf,2
+2024-12-17 01:14 PM,California,Espresso,In-Store,5.89,Credit Card,No,Chris,New,3,Decaf,5
+2024-12-28 04:46 PM,Illinois,Iced Latte,In-Store,6.65,Credit Card,Yes,Alex,Tourist,3,No Sugar,4
+2024-12-16 10:53 AM,Illinois,Cappuccino,In-Store,3.98,Cash,No,Jamie,Tourist,9,No Sugar,3
+2024-12-28 05:07 PM,New York,Iced Latte,Mobile App,5.72,Cash,No,Taylor,New,4,Almond Milk,1
+2024-12-19 09:51 AM,California,Caramel Macchiato,Mobile App,5.56,Mobile Pay,No,Alex,Tourist,6,Extra Shot,2
+2024-12-21 03:21 PM,California,Cappuccino,In-Store,6.03,Cash,Yes,Maria,Tourist,4,Extra Shot,5
+2024-12-24 10:04 AM,Texas,Espresso,Online,4.34,Cash,Yes,Alex,New,2,Oat Milk,3
+2024-12-17 04:26 PM,California,Caramel Macchiato,Online,5.52,Cash,Yes,Jamie,New,8,Decaf,1
+2024-12-23 09:07 AM,Texas,Espresso,In-Store,6.76,Credit Card,Yes,Taylor,Regular,7,Decaf,4
+2024-12-29 09:52 AM,California,Espresso,In-Store,5.74,Credit Card,No,Jordan,Regular,3,Extra Shot,2
+2024-12-19 01:22 PM,California,Caramel Macchiato,Online,5.04,Credit Card,No,Taylor,Regular,9,Oat Milk,4
+2024-12-21 04:41 PM,Texas,Cappuccino,In-Store,6.94,Cash,No,Jordan,Regular,3,Extra Shot,3
+2024-12-29 08:50 AM,Illinois,Espresso,In-Store,4.37,Credit Card,No,Jordan,Tourist,10,Extra Shot,4
+2024-12-15 11:41 AM,Florida,Cappuccino,Mobile App,3.5,Credit Card,No,Jamie,Tourist,2,Double Espresso,1
+2024-12-23 05:37 PM,California,Caramel Macchiato,Online,4.14,Credit Card,Yes,Jordan,New,6,Double Espresso,2
+2024-12-21 05:45 PM,Illinois,Cappuccino,Mobile App,4.68,Mobile Pay,No,Jordan,New,10,Oat Milk,5
+2024-12-27 03:05 PM,Illinois,Flat White,In-Store,5.14,Cash,No,Jordan,Tourist,5,Extra Shot,3
+2024-12-24 12:01 PM,Illinois,Flat White,Mobile App,5.48,Credit Card,Yes,Maria,Regular,4,Whipped Cream,2
+2024-12-19 10:49 AM,New York,Espresso,Mobile App,5.24,Credit Card,No,Taylor,Tourist,2,Double Espresso,4
+2024-12-17 09:29 AM,New York,Iced Latte,Mobile App,4.77,Mobile Pay,Yes,Chris,Tourist,5,Double Espresso,5
+2024-12-18 05:58 PM,Florida,Americano,In-Store,6.59,Mobile Pay,Yes,Jordan,Tourist,2,Whipped Cream,3
+2024-12-28 01:26 PM,California,Mocha,Mobile App,5.27,Cash,No,Alex,Tourist,4,Decaf,5
+2024-12-27 04:43 PM,Texas,Espresso,Mobile App,4.06,Mobile Pay,No,Taylor,New,7,Decaf,1
+2024-12-29 11:00 AM,Illinois,Espresso,Online,3.39,Mobile Pay,Yes,Maria,Tourist,7,Double Espresso,3
+2024-12-30 09:16 AM,Texas,Caramel Macchiato,Online,4.59,Credit Card,Yes,Taylor,New,10,No Sugar,1
+2024-12-28 10:30 AM,Texas,Iced Latte,In-Store,5.67,Mobile Pay,No,Taylor,New,8,Almond Milk,1
+2024-12-16 02:32 PM,Texas,Iced Latte,In-Store,5.67,Mobile Pay,No,Alex,Regular,3,Decaf,5
+2024-12-15 12:05 PM,Florida,Americano,Mobile App,3.29,Mobile Pay,No,Alex,New,8,Whipped Cream,2
+2024-12-28 04:12 PM,Illinois,Espresso,Mobile App,4.64,Credit Card,Yes,Jordan,New,5,Oat Milk,3
+2024-12-19 03:28 PM,New York,Cappuccino,Online,4.56,Credit Card,No,Maria,Tourist,8,Whipped Cream,4
+2024-12-25 05:08 PM,Florida,Iced Latte,Mobile App,6.19,Mobile Pay,No,Jordan,Tourist,9,Decaf,1
+2024-12-30 05:44 PM,Illinois,Iced Latte,Online,3.09,Mobile Pay,No,Alex,Regular,5,Extra Shot,4
+2024-12-18 10:59 AM,Florida,Flat White,Mobile App,6.72,Credit Card,No,Jamie,Regular,9,Double Espresso,1
+2024-12-22 11:54 AM,Texas,Americano,In-Store,3.31,Credit Card,Yes,Jamie,Regular,5,Whipped Cream,4
+2024-12-18 04:42 PM,Florida,Mocha,Online,4.98,Mobile Pay,No,Jamie,Regular,5,Extra Shot,4
+2024-12-16 04:18 PM,Florida,Flat White,Mobile App,3.2,Credit Card,No,Alex,Regular,8,No Sugar,5
+2024-12-15 09:27 AM,Florida,Flat White,In-Store,3.95,Credit Card,No,Alex,New,9,Double Espresso,1
+2024-12-29 03:47 PM,New York,Americano,Mobile App,3.68,Credit Card,Yes,Alex,Regular,3,Decaf,5
+2024-12-23 10:06 AM,Texas,Flat White,Mobile App,6.72,Cash,Yes,Taylor,Tourist,7,Oat Milk,4
+2024-12-27 05:28 PM,Texas,Caramel Macchiato,Online,6.47,Credit Card,Yes,Alex,Tourist,4,Double Espresso,3
+2024-12-21 01:14 PM,Illinois,Caramel Macchiato,Online,6.84,Credit Card,No,Jordan,Tourist,10,Oat Milk,4
+2024-12-21 09:29 AM,New York,Americano,In-Store,4.61,Cash,Yes,Jamie,Tourist,4,Whipped Cream,1
+2024-12-20 08:24 AM,Illinois,Mocha,In-Store,5.64,Credit Card,Yes,Maria,Tourist,7,No Sugar,2
+2024-12-16 02:43 PM,Florida,Iced Latte,Online,5.16,Cash,Yes,Jordan,New,8,Double Espresso,2
+2024-12-26 04:41 PM,Texas,Iced Latte,Mobile App,3.55,Mobile Pay,No,Jamie,Tourist,2,Double Espresso,5
+2024-12-23 12:15 PM,New York,Cappuccino,Mobile App,5.17,Mobile Pay,Yes,Maria,Regular,2,Whipped Cream,3
+2024-12-27 05:44 PM,Texas,Americano,Mobile App,4.73,Mobile Pay,No,Taylor,New,4,No Sugar,5
+2024-12-20 05:32 PM,Illinois,Americano,In-Store,5.59,Cash,No,Jamie,Tourist,10,Double Espresso,4
+2024-12-30 08:44 AM,New York,Iced Latte,Online,6.69,Credit Card,No,Jamie,New,9,Extra Shot,5
+2024-12-27 10:01 AM,Illinois,Espresso,Online,4.52,Credit Card,Yes,Jordan,Tourist,9,Decaf,5
+2024-12-23 02:34 PM,Texas,Caramel Macchiato,Mobile App,5.3,Cash,No,Jordan,Regular,4,No Sugar,5
+2024-12-24 03:47 PM,California,Caramel Macchiato,Mobile App,5.13,Mobile Pay,Yes,Jamie,Tourist,4,Oat Milk,2
+2024-12-20 12:56 PM,California,Americano,Online,6.02,Cash,No,Jordan,Tourist,7,Oat Milk,4
+2024-12-24 08:43 AM,California,Mocha,Online,6.6,Credit Card,No,Chris,New,6,Extra Shot,5
+2024-12-21 05:25 PM,Texas,Mocha,Online,6.31,Mobile Pay,No,Maria,Tourist,5,Oat Milk,2
+2024-12-25 05:54 PM,Florida,Caramel Macchiato,Online,6.32,Credit Card,Yes,Taylor,Tourist,3,No Sugar,4
+2024-12-17 09:43 AM,Florida,Mocha,Mobile App,6.05,Mobile Pay,No,Maria,New,8,Extra Shot,5
+2024-12-17 05:14 PM,Texas,Flat White,Mobile App,5.43,Mobile Pay,No,Alex,Regular,10,Almond Milk,5
+2024-12-26 01:23 PM,California,Americano,Online,5.08,Cash,No,Alex,Tourist,7,Whipped Cream,4
+2024-12-27 12:52 PM,Florida,Mocha,In-Store,3.78,Mobile Pay,Yes,Jordan,Tourist,3,Whipped Cream,1
+2024-12-29 05:30 PM,Texas,Iced Latte,In-Store,5.09,Mobile Pay,No,Taylor,Regular,6,Whipped Cream,1
+2024-12-16 01:13 PM,New York,Flat White,In-Store,4.3,Cash,Yes,Chris,New,5,Almond Milk,2
+2024-12-26 01:39 PM,Texas,Caramel Macchiato,Online,4.9,Mobile Pay,Yes,Maria,New,9,Whipped Cream,3
+2024-12-15 05:17 PM,Texas,Americano,Mobile App,6.21,Cash,Yes,Alex,New,4,Decaf,4
+2024-12-24 09:44 AM,Illinois,Cappuccino,Online,5.25,Mobile Pay,Yes,Jamie,Regular,6,No Sugar,2
+2024-12-18 04:33 PM,Illinois,Caramel Macchiato,Online,4.61,Credit Card,No,Taylor,New,8,Almond Milk,3
+2024-12-28 05:32 PM,New York,Caramel Macchiato,Online,5.16,Cash,No,Maria,Regular,9,Oat Milk,3
+2024-12-23 12:34 PM,Florida,Americano,Mobile App,4.69,Cash,No,Jordan,Tourist,6,Extra Shot,5
+2024-12-17 05:58 PM,California,Iced Latte,Mobile App,4.71,Cash,Yes,Maria,Regular,2,Almond Milk,2
+2024-12-27 01:40 PM,Texas,Cappuccino,Mobile App,6.51,Credit Card,Yes,Maria,Tourist,3,Whipped Cream,3
+2024-12-28 09:13 AM,California,Flat White,Online,4.92,Mobile Pay,Yes,Jordan,Tourist,8,Double Espresso,2
+2024-12-25 12:19 PM,Florida,Caramel Macchiato,Mobile App,5.1,Cash,No,Taylor,Tourist,9,Extra Shot,4
+2024-12-30 11:27 AM,New York,Americano,Online,5.88,Cash,No,Maria,Tourist,2,Extra Shot,3
+2024-12-28 10:58 AM,Florida,Flat White,In-Store,6.8,Credit Card,Yes,Maria,Tourist,10,Whipped Cream,1
+2024-12-26 11:53 AM,California,Mocha,In-Store,5.43,Mobile Pay,Yes,Jordan,New,3,Almond Milk,4
+2024-12-26 09:33 AM,Texas,Espresso,Online,4.96,Credit Card,No,Chris,Regular,10,Extra Shot,4
+2024-12-21 09:42 AM,New York,Mocha,In-Store,6.6,Cash,No,Chris,New,7,Double Espresso,3
+2024-12-22 02:09 PM,Illinois,Iced Latte,Online,3.57,Credit Card,No,Jamie,Tourist,10,Extra Shot,1
+2024-12-21 04:55 PM,Texas,Americano,Online,6.84,Mobile Pay,No,Maria,Regular,9,Oat Milk,2
+2024-12-18 11:59 AM,Illinois,Americano,Mobile App,6.87,Credit Card,No,Maria,Regular,4,Double Espresso,5
+2024-12-29 11:47 AM,New York,Mocha,In-Store,5.93,Cash,Yes,Jordan,New,5,Double Espresso,5
+2024-12-17 10:20 AM,Florida,Americano,In-Store,6.16,Mobile Pay,Yes,Chris,Tourist,6,No Sugar,4
+2024-12-16 03:47 PM,New York,Mocha,In-Store,6.23,Cash,Yes,Alex,Tourist,7,No Sugar,3
+2024-12-24 03:39 PM,California,Mocha,Online,5.41,Mobile Pay,No,Alex,Regular,4,Decaf,1
+2024-12-17 01:15 PM,Illinois,Espresso,Mobile App,6.64,Mobile Pay,Yes,Maria,New,7,Extra Shot,5
+2024-12-30 04:15 PM,Texas,Mocha,In-Store,6.25,Credit Card,Yes,Chris,New,2,Double Espresso,2
+2024-12-17 08:16 AM,Illinois,Espresso,Mobile App,6.24,Mobile Pay,No,Taylor,Tourist,10,Whipped Cream,5
+2024-12-22 11:44 AM,Florida,Americano,Mobile App,4.43,Credit Card,No,Alex,Regular,5,Almond Milk,3
+2024-12-30 11:59 AM,New York,Americano,In-Store,6.26,Mobile Pay,No,Alex,New,3,No Sugar,2
+2024-12-30 05:57 PM,California,Iced Latte,In-Store,5.57,Credit Card,No,Jordan,Regular,3,No Sugar,2
+2024-12-22 04:12 PM,California,Cappuccino,In-Store,6.65,Mobile Pay,No,Jamie,Regular,5,Oat Milk,5
+2024-12-22 05:07 PM,Texas,Espresso,In-Store,5.53,Mobile Pay,Yes,Alex,Regular,4,Almond Milk,4
+2024-12-21 10:03 AM,California,Cappuccino,Mobile App,5.69,Credit Card,Yes,Jamie,New,3,Extra Shot,2
+2024-12-15 05:46 PM,California,Espresso,In-Store,5.89,Mobile Pay,No,Maria,Regular,5,Almond Milk,3
+2024-12-24 02:24 PM,Florida,Mocha,Mobile App,3.05,Credit Card,No,Jordan,Tourist,6,Whipped Cream,5
+2024-12-16 12:11 PM,California,Iced Latte,Online,3.09,Mobile Pay,No,Jordan,Tourist,4,No Sugar,1
+2024-12-24 01:08 PM,Texas,Cappuccino,Online,4.5,Credit Card,Yes,Jordan,New,7,Oat Milk,4
+2024-12-28 09:51 AM,California,Caramel Macchiato,In-Store,5.86,Mobile Pay,No,Maria,Tourist,9,Whipped Cream,1
+2024-12-27 11:29 AM,California,Mocha,Online,3.76,Cash,No,Taylor,New,8,No Sugar,2
+2024-12-18 08:16 AM,California,Americano,In-Store,3.1,Cash,Yes,Jamie,Regular,7,Double Espresso,2
+2024-12-22 04:31 PM,Florida,Iced Latte,In-Store,5.4,Credit Card,No,Jordan,Tourist,3,Decaf,4
+2024-12-28 08:26 AM,Texas,Mocha,In-Store,6.44,Mobile Pay,Yes,Chris,New,6,Whipped Cream,2
+2024-12-28 08:14 AM,Florida,Iced Latte,In-Store,3.23,Credit Card,No,Jamie,New,9,No Sugar,4
+2024-12-29 12:39 PM,California,Flat White,Online,5.36,Cash,No,Chris,New,4,Extra Shot,3
+2024-12-22 09:08 AM,Florida,Espresso,Online,3.01,Credit Card,Yes,Alex,Tourist,3,Almond Milk,2
+2024-12-15 02:35 PM,Texas,Iced Latte,Online,4.59,Credit Card,No,Maria,New,10,Almond Milk,5
+2024-12-15 09:51 AM,Florida,Espresso,In-Store,3.59,Credit Card,Yes,Chris,Tourist,2,Decaf,1
+2024-12-18 08:26 AM,New York,Iced Latte,In-Store,3.22,Mobile Pay,Yes,Chris,Regular,2,Whipped Cream,3
+2024-12-20 04:17 PM,New York,Flat White,In-Store,6.2,Credit Card,Yes,Jordan,Regular,2,Almond Milk,5
+2024-12-21 01:34 PM,Illinois,Americano,Online,4.79,Mobile Pay,No,Taylor,New,9,Almond Milk,2
+2024-12-16 08:21 AM,Texas,Americano,In-Store,5.43,Credit Card,No,Chris,New,8,Decaf,2
+2024-12-16 05:04 PM,Illinois,Mocha,In-Store,5.8,Cash,Yes,Alex,Regular,6,Decaf,4
+2024-12-21 12:21 PM,Illinois,Iced Latte,In-Store,6.18,Credit Card,No,Taylor,New,9,Almond Milk,3
+2024-12-15 12:37 PM,Texas,Cappuccino,Mobile App,3.27,Mobile Pay,No,Taylor,Regular,7,Extra Shot,1
+2024-12-20 10:02 AM,Florida,Cappuccino,Mobile App,5.01,Mobile Pay,No,Jordan,Tourist,9,Decaf,5
+2024-12-23 03:40 PM,Texas,Americano,In-Store,3.79,Mobile Pay,No,Jordan,Regular,8,Decaf,5
+2024-12-23 12:06 PM,New York,Espresso,In-Store,3.59,Cash,No,Alex,New,9,Double Espresso,3
+2024-12-18 10:48 AM,Florida,Espresso,In-Store,3.84,Mobile Pay,No,Taylor,Tourist,3,Double Espresso,4
+2024-12-27 09:45 AM,Florida,Mocha,Online,6.39,Mobile Pay,Yes,Alex,Regular,9,Almond Milk,5
+2024-12-22 04:54 PM,Texas,Iced Latte,In-Store,4.64,Credit Card,Yes,Jordan,Tourist,6,Almond Milk,5
+2024-12-30 09:15 AM,Florida,Americano,Mobile App,6.0,Mobile Pay,No,Maria,Regular,3,Decaf,1
+2024-12-26 04:32 PM,Illinois,Flat White,Mobile App,5.03,Credit Card,No,Chris,New,10,Extra Shot,2
+2024-12-27 03:56 PM,Florida,Cappuccino,Mobile App,5.95,Credit Card,No,Taylor,New,9,Almond Milk,5
+2024-12-17 08:16 AM,Illinois,Iced Latte,Online,4.9,Cash,Yes,Maria,Regular,8,Double Espresso,1
+2024-12-19 02:05 PM,California,Mocha,Mobile App,6.56,Mobile Pay,No,Maria,Tourist,8,Double Espresso,5
+2024-12-17 02:37 PM,New York,Americano,Mobile App,3.2,Credit Card,No,Maria,Tourist,3,No Sugar,1
+2024-12-27 02:07 PM,Florida,Espresso,In-Store,4.98,Mobile Pay,Yes,Maria,New,6,Oat Milk,5
+2024-12-23 01:46 PM,New York,Flat White,In-Store,6.12,Cash,No,Maria,New,2,Double Espresso,4
+2024-12-26 12:53 PM,Illinois,Espresso,Online,5.19,Mobile Pay,No,Taylor,New,2,No Sugar,4
+2024-12-23 10:04 AM,New York,Iced Latte,In-Store,5.24,Credit Card,No,Maria,Regular,7,Double Espresso,2
+2024-12-28 02:17 PM,Illinois,Cappuccino,In-Store,3.0,Mobile Pay,Yes,Chris,Tourist,8,Double Espresso,5
+2024-12-18 08:56 AM,New York,Mocha,Online,4.58,Credit Card,No,Taylor,Tourist,3,Decaf,1
+2024-12-24 09:05 AM,Florida,Iced Latte,In-Store,6.99,Credit Card,Yes,Chris,Tourist,4,Whipped Cream,2
+2024-12-26 09:14 AM,Texas,Espresso,Mobile App,4.63,Credit Card,No,Maria,Regular,2,No Sugar,3
+2024-12-23 09:25 AM,Florida,Caramel Macchiato,Mobile App,3.09,Credit Card,No,Chris,New,9,Extra Shot,3
+2024-12-16 09:27 AM,Florida,Americano,In-Store,6.49,Mobile Pay,No,Chris,Regular,8,Decaf,1
+2024-12-22 03:57 PM,California,Caramel Macchiato,Mobile App,3.51,Cash,Yes,Taylor,Tourist,2,Whipped Cream,4
+2024-12-22 04:09 PM,California,Flat White,In-Store,4.77,Cash,Yes,Maria,New,4,Decaf,4
+2024-12-30 04:27 PM,Illinois,Americano,Mobile App,5.47,Credit Card,No,Jordan,Tourist,10,Decaf,3
+2024-12-29 02:36 PM,Florida,Americano,In-Store,4.31,Mobile Pay,No,Chris,Tourist,2,Almond Milk,1
+2024-12-24 05:43 PM,Texas,Iced Latte,Mobile App,6.12,Cash,Yes,Jordan,New,2,No Sugar,1
+2024-12-16 09:27 AM,California,Mocha,Mobile App,5.15,Mobile Pay,No,Maria,New,7,Extra Shot,4
+2024-12-30 10:06 AM,Illinois,Cappuccino,Online,4.31,Mobile Pay,Yes,Jamie,New,2,Almond Milk,1
+2024-12-24 05:19 PM,Texas,Flat White,Mobile App,6.89,Cash,Yes,Alex,New,8,Decaf,3
+2024-12-27 04:39 PM,New York,Espresso,Online,4.64,Cash,No,Chris,Regular,2,Whipped Cream,3
+2024-12-20 01:31 PM,New York,Flat White,Mobile App,6.57,Mobile Pay,No,Chris,New,5,Extra Shot,5
+2024-12-27 08:27 AM,Texas,Mocha,Online,4.03,Cash,No,Maria,Tourist,4,Whipped Cream,4
+2024-12-20 12:03 PM,California,Espresso,Mobile App,4.34,Mobile Pay,No,Maria,Regular,2,Oat Milk,4
+2024-12-17 10:07 AM,Texas,Mocha,Online,3.72,Cash,No,Jamie,Tourist,9,No Sugar,4
+2024-12-17 01:39 PM,California,Espresso,In-Store,3.41,Credit Card,No,Jordan,Regular,3,No Sugar,5
+2024-12-28 12:34 PM,Illinois,Americano,Online,6.97,Credit Card,Yes,Alex,New,10,Decaf,4
+2024-12-26 04:08 PM,Texas,Caramel Macchiato,In-Store,3.69,Mobile Pay,No,Jamie,Regular,6,Decaf,2
+2024-12-30 02:50 PM,Florida,Caramel Macchiato,In-Store,5.55,Cash,Yes,Maria,Tourist,3,Extra Shot,1
+2024-12-18 12:14 PM,New York,Flat White,In-Store,4.72,Mobile Pay,No,Taylor,Regular,9,Double Espresso,3
+2024-12-30 10:23 AM,Florida,Cappuccino,In-Store,4.24,Credit Card,Yes,Taylor,New,6,No Sugar,3
+2024-12-15 02:16 PM,Florida,Americano,Online,4.14,Cash,No,Jordan,Regular,5,Whipped Cream,1
+2024-12-16 11:09 AM,New York,Flat White,Mobile App,5.46,Mobile Pay,No,Jordan,Tourist,3,Decaf,4
+2024-12-29 02:48 PM,Texas,Mocha,Mobile App,4.17,Mobile Pay,Yes,Jamie,Regular,2,Extra Shot,5
+2024-12-23 10:52 AM,California,Espresso,Online,5.86,Mobile Pay,Yes,Alex,Tourist,8,Extra Shot,1
+2024-12-19 11:02 AM,New York,Cappuccino,In-Store,4.3,Mobile Pay,Yes,Chris,Tourist,5,No Sugar,2
+2024-12-29 08:02 AM,California,Cappuccino,In-Store,5.86,Cash,No,Jamie,Tourist,6,Double Espresso,1
+2024-12-28 01:11 PM,Florida,Flat White,Online,6.67,Cash,No,Chris,New,2,Whipped Cream,5
+2024-12-18 04:56 PM,Florida,Americano,In-Store,4.9,Mobile Pay,Yes,Jamie,Tourist,10,Almond Milk,1
+2024-12-25 01:15 PM,Illinois,Iced Latte,In-Store,5.15,Mobile Pay,No,Taylor,Tourist,8,Whipped Cream,5
+2024-12-24 02:37 PM,Illinois,Cappuccino,In-Store,6.54,Mobile Pay,Yes,Chris,New,9,Double Espresso,2
