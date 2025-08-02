@@ -1,1 +1,1 @@
-# coffee_dashboard
+# Coffee Dashboard
